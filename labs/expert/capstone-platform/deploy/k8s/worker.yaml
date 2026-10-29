@@ -1,0 +1,19 @@
+# TODO: complete this worker Deployment.
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: webhook-worker
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: webhook-worker
+  template:
+    metadata:
+      labels:
+        app: webhook-worker
+    spec:
+      containers:
+        - name: worker
+          image: webhook-worker:latest
+          # TODO: env, resources, terminationGracePeriodSeconds

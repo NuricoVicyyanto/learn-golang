@@ -1,0 +1,32 @@
+# TODO: complete this Deployment and Service.
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: webhook-api
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: webhook-api
+  template:
+    metadata:
+      labels:
+        app: webhook-api
+    spec:
+      containers:
+        - name: api
+          image: webhook-api:latest
+          ports:
+            - containerPort: 8080
+          # TODO: livenessProbe, readinessProbe, resources, envFrom
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: webhook-api
+spec:
+  selector:
+    app: webhook-api
+  ports:
+    - port: 80
+      targetPort: 8080

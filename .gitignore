@@ -1,0 +1,33 @@
+# Binaries and build output
+*.exe
+*.test
+*.out
+bin/
+dist/
+
+# Coverage
+coverage.out
+cover.out
+coverage.html
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Editors
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local workspaces and temporary files
+go.work.sum
+tmp/
