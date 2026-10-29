@@ -1,4 +1,4 @@
-# Milestones — Capstone: REST API
+# Milestones - Capstone: REST API
 
 > One milestone per 2–4 sessions. Do not start the next milestone until the current one is demonstrable.
 

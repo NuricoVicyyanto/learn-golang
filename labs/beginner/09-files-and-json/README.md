@@ -1,4 +1,4 @@
-# Lab 09 — Files and JSON
+# Lab 09 - Files and JSON
 
 > **Level:** Beginner · **Module guide:** [09 Files and JSON](../../../docs/01-beginner/09-files-and-json/README.md)
 

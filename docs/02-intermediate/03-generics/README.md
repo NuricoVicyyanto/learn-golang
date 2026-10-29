@@ -55,7 +55,7 @@ go run ./intermediate/03-generics
 go test ./intermediate/03-generics -v
 ```
 
-## Mini project — Generic Collections Library
+## Mini project - Generic Collections Library
 
 Build a small, well-documented generic collections package: set, stack, queue, and a `Result[T]` type. Focus on usable zero values, clear constraints, and tests that prove type safety at compile time.
 

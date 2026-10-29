@@ -1,4 +1,4 @@
-# Lab 08 — Kubernetes and Cloud
+# Lab 08 - Kubernetes and Cloud
 
 > **Level:** Expert · **Module guide:** [08 Kubernetes and Cloud](../../../docs/03-expert/08-kubernetes-and-cloud/README.md)
 

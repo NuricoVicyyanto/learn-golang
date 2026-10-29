@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Execution Tracing
+// Exercise 03 - Execution Tracing
 //
 // Docs: ../../../docs/03-expert/02-performance-engineering/03-execution-tracing.md
 //

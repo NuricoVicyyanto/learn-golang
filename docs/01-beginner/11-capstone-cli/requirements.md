@@ -1,4 +1,4 @@
-# Requirements — Capstone: CLI Application
+# Requirements - Capstone: CLI Application
 
 > Fill in acceptance criteria before coding. A requirement without a test is a wish.
 
@@ -21,37 +21,37 @@
 
 ## Functional requirements
 
-### FR-01 — Create, list, update, and delete records from the command line
+### FR-01 - Create, list, update, and delete records from the command line
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-02 — Support filtering or search with at least two criteria
+### FR-02 - Support filtering or search with at least two criteria
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-03 — Persist data between runs without corruption
+### FR-03 - Persist data between runs without corruption
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-04 — Provide a `--json` output mode for scripting
+### FR-04 - Provide a `--json` output mode for scripting
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-05 — Return non-zero exit codes and useful messages on failure
+### FR-05 - Return non-zero exit codes and useful messages on failure
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-06 — Include a `--help` page for every command
+### FR-06 - Include a `--help` page for every command
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could

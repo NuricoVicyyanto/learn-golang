@@ -10,7 +10,7 @@ import "testing"
 //
 // A skipped test is a reminder, not a passing grade.
 
-// 01 — Authentication and Authorization
+// 01 - Authentication and Authorization
 func TestExercise01(t *testing.T) {
 	t.Skip("TODO: implement exercise01, then remove this Skip")
 	if err := exercise01(); err != nil {
@@ -18,7 +18,7 @@ func TestExercise01(t *testing.T) {
 	}
 }
 
-// 02 — OWASP for APIs
+// 02 - OWASP for APIs
 func TestExercise02(t *testing.T) {
 	t.Skip("TODO: implement exercise02, then remove this Skip")
 	if err := exercise02(); err != nil {
@@ -26,7 +26,7 @@ func TestExercise02(t *testing.T) {
 	}
 }
 
-// 03 — Secrets and TLS
+// 03 - Secrets and TLS
 func TestExercise03(t *testing.T) {
 	t.Skip("TODO: implement exercise03, then remove this Skip")
 	if err := exercise03(); err != nil {
@@ -34,7 +34,7 @@ func TestExercise03(t *testing.T) {
 	}
 }
 
-// 04 — Supply Chain Security
+// 04 - Supply Chain Security
 func TestExercise04(t *testing.T) {
 	t.Skip("TODO: implement exercise04, then remove this Skip")
 	if err := exercise04(); err != nil {

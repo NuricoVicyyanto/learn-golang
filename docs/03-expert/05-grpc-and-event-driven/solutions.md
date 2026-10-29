@@ -1,4 +1,4 @@
-# Solutions — gRPC and Event-Driven Systems
+# Solutions - gRPC and Event-Driven Systems
 
 > **Level:** Expert · Write your own attempt first. A copied solution is not evidence of learning.
 

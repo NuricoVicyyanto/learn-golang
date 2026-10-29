@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Unbuffered vs buffered channels. Predict the output before running.
-2. **Change** — modify one detail in Send, receive, and blocking semantics. Explain the difference.
-3. **Break** — break Directional channels and nil channels on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Unbuffered vs buffered channels and Send, receive, and blocking semantics in one small program.
+1. **Baseline** - reproduce the smallest working example for Unbuffered vs buffered channels. Predict the output before running.
+2. **Change** - modify one detail in Send, receive, and blocking semantics. Explain the difference.
+3. **Break** - break Directional channels and nil channels on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Unbuffered vs buffered channels and Send, receive, and blocking semantics in one small program.
 
 ```go
 // TODO: experiment space

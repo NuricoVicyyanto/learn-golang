@@ -56,7 +56,7 @@ go run ./expert/07-data-at-scale
 go test ./expert/07-data-at-scale -v
 ```
 
-## Mini project — Scaled Read Path
+## Mini project - Scaled Read Path
 
 Take an API read path and make it scale: add caching with invalidation, optimize the query and index, and document the consistency trade-offs. Include a load test with before/after data.
 

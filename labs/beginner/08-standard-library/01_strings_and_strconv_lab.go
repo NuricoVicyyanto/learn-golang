@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Strings and strconv
+// Exercise 01 - Strings and strconv
 //
 // Docs: ../../../docs/01-beginner/08-standard-library/01-strings-and-strconv.md
 //

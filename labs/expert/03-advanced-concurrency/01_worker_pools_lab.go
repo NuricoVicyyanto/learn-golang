@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Worker Pools
+// Exercise 01 - Worker Pools
 //
 // Docs: ../../../docs/03-expert/03-advanced-concurrency/01-worker-pools.md
 //

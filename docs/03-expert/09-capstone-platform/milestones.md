@@ -1,4 +1,4 @@
-# Milestones — Capstone: Production Platform
+# Milestones - Capstone: Production Platform
 
 > One milestone per 2–4 sessions. Do not start the next milestone until the current one is demonstrable.
 

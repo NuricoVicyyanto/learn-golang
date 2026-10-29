@@ -1,4 +1,4 @@
-# Lab 02 — Context and Cancellation
+# Lab 02 - Context and Cancellation
 
 > **Level:** Intermediate · **Module guide:** [02 Context and Cancellation](../../../docs/02-intermediate/02-context/README.md)
 

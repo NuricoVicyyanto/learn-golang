@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Scheduler and GMP
+// Exercise 01 - Scheduler and GMP
 //
 // Docs: ../../../docs/03-expert/01-runtime-internals/01-scheduler-and-gmp.md
 //

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Channels
+// Exercise 02 - Channels
 //
 // Docs: ../../../docs/02-intermediate/01-concurrency-fundamentals/02-channels.md
 //

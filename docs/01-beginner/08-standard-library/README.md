@@ -56,7 +56,7 @@ go run ./beginner/08-standard-library
 go test ./beginner/08-standard-library -v
 ```
 
-## Mini project — Log Analyzer
+## Mini project - Log Analyzer
 
 Build a CLI that reads a log file or stdin, parses timestamp and level, and reports counts per level, the busiest minute, and the slowest request. Stream input rather than loading everything into memory.
 

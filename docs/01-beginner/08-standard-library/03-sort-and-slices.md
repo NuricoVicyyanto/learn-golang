@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `sort.Interface` and `sort.Slice`. Predict the output before running.
-2. **Change** — modify one detail in The `slices` package: `Sort`, `SortFunc`, `Contains`, `Index`. Explain the difference.
-3. **Break** — break Sorting structs by multiple fields on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `sort.Interface` and `sort.Slice` and The `slices` package: `Sort`, `SortFunc`, `Contains`, `Index` in one small program.
+1. **Baseline** - reproduce the smallest working example for `sort.Interface` and `sort.Slice`. Predict the output before running.
+2. **Change** - modify one detail in The `slices` package: `Sort`, `SortFunc`, `Contains`, `Index`. Explain the difference.
+3. **Break** - break Sorting structs by multiple fields on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `sort.Interface` and `sort.Slice` and The `slices` package: `Sort`, `SortFunc`, `Contains`, `Index` in one small program.
 
 ```go
 // TODO: experiment space

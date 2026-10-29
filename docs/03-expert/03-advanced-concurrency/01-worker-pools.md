@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Fixed workers and a job queue. Predict the output before running.
-2. **Change** — modify one detail in Result collection and ordering. Explain the difference.
-3. **Break** — break Pool sizing and metrics on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Fixed workers and a job queue and Result collection and ordering in one small program.
+1. **Baseline** - reproduce the smallest working example for Fixed workers and a job queue. Predict the output before running.
+2. **Change** - modify one detail in Result collection and ordering. Explain the difference.
+3. **Break** - break Pool sizing and metrics on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Fixed workers and a job queue and Result collection and ordering in one small program.
 
 ```go
 // TODO: experiment space

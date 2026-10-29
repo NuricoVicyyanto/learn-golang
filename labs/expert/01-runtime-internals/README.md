@@ -1,4 +1,4 @@
-# Lab 01 — Runtime Internals
+# Lab 01 - Runtime Internals
 
 > **Level:** Expert · **Module guide:** [01 Runtime Internals](../../../docs/03-expert/01-runtime-internals/README.md)
 

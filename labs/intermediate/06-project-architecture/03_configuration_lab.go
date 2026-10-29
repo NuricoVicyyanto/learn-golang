@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Configuration
+// Exercise 03 - Configuration
 //
 // Docs: ../../../docs/02-intermediate/06-project-architecture/03-configuration.md
 //

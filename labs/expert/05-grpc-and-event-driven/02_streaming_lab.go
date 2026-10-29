@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Streaming RPCs
+// Exercise 02 - Streaming RPCs
 //
 // Docs: ../../../docs/03-expert/05-grpc-and-event-driven/02-streaming.md
 //

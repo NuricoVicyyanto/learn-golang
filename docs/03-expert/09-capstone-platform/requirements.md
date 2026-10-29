@@ -1,4 +1,4 @@
-# Requirements — Capstone: Production Platform
+# Requirements - Capstone: Production Platform
 
 > Fill in acceptance criteria before coding. A requirement without a test is a wish.
 
@@ -23,43 +23,43 @@
 
 ## Functional requirements
 
-### FR-01 — Register tenants and endpoints; authenticate API requests with scoped keys
+### FR-01 - Register tenants and endpoints; authenticate API requests with scoped keys
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-02 — Ingest events idempotently and persist them before acknowledging
+### FR-02 - Ingest events idempotently and persist them before acknowledging
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-03 — Deliver events at least once with signed payloads
+### FR-03 - Deliver events at least once with signed payloads
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-04 — Retry transient failures with bounded exponential backoff and jitter
+### FR-04 - Retry transient failures with bounded exponential backoff and jitter
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-05 — Move exhausted deliveries to a dead-letter queue
+### FR-05 - Move exhausted deliveries to a dead-letter queue
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-06 — Expose delivery history and a manual replay endpoint
+### FR-06 - Expose delivery history and a manual replay endpoint
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-07 — Provide queue depth, age, success rate, and latency metrics
+### FR-07 - Provide queue depth, age, success rate, and latency metrics
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could

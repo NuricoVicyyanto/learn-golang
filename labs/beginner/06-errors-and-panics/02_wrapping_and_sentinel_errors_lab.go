@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Wrapping and Sentinel Errors
+// Exercise 02 - Wrapping and Sentinel Errors
 //
 // Docs: ../../../docs/01-beginner/06-errors-and-panics/02-wrapping-and-sentinel-errors.md
 //

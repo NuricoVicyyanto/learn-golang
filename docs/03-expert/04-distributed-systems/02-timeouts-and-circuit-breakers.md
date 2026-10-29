@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Deadline budgets and propagation. Predict the output before running.
-2. **Change** — modify one detail in Circuit breaker states and thresholds. Explain the difference.
-3. **Break** — break Metrics for failures and rejected calls on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Deadline budgets and propagation and Circuit breaker states and thresholds in one small program.
+1. **Baseline** - reproduce the smallest working example for Deadline budgets and propagation. Predict the output before running.
+2. **Change** - modify one detail in Circuit breaker states and thresholds. Explain the difference.
+3. **Break** - break Metrics for failures and rejected calls on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Deadline budgets and propagation and Circuit breaker states and thresholds in one small program.
 
 ```go
 // TODO: experiment space

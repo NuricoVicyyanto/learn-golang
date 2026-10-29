@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Containers and Kubernetes
+// Exercise 01 - Containers and Kubernetes
 //
 // Docs: ../../../docs/03-expert/08-kubernetes-and-cloud/01-containers-and-kubernetes.md
 //

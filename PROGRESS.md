@@ -20,17 +20,17 @@ Update this file after every study session. The module READMEs contain the detai
 
 ## Beginner
 
-- [ ] 01 — [Introduction to Go](docs/01-beginner/01-introduction-to-go/README.md)
-- [ ] 02 — [Installation and setup](docs/01-beginner/02-installation-and-setup/README.md)
-- [ ] 03 — [Language basics](docs/01-beginner/03-language-basics/README.md)
-- [ ] 04 — [Composite types](docs/01-beginner/04-composite-types/README.md)
-- [ ] 05 — [Methods and interfaces](docs/01-beginner/05-methods-and-interfaces/README.md)
-- [ ] 06 — [Errors and panics](docs/01-beginner/06-errors-and-panics/README.md)
-- [ ] 07 — [Packages and modules](docs/01-beginner/07-packages-and-modules/README.md)
-- [ ] 08 — [Standard library essentials](docs/01-beginner/08-standard-library/README.md)
-- [ ] 09 — [Files and JSON](docs/01-beginner/09-files-and-json/README.md)
-- [ ] 10 — [Testing basics](docs/01-beginner/10-testing-basics/README.md)
-- [ ] 11 — [Capstone: CLI application](docs/01-beginner/11-capstone-cli/README.md)
+- [ ] 01 - [Introduction to Go](docs/01-beginner/01-introduction-to-go/README.md)
+- [ ] 02 - [Installation and setup](docs/01-beginner/02-installation-and-setup/README.md)
+- [ ] 03 - [Language basics](docs/01-beginner/03-language-basics/README.md)
+- [ ] 04 - [Composite types](docs/01-beginner/04-composite-types/README.md)
+- [ ] 05 - [Methods and interfaces](docs/01-beginner/05-methods-and-interfaces/README.md)
+- [ ] 06 - [Errors and panics](docs/01-beginner/06-errors-and-panics/README.md)
+- [ ] 07 - [Packages and modules](docs/01-beginner/07-packages-and-modules/README.md)
+- [ ] 08 - [Standard library essentials](docs/01-beginner/08-standard-library/README.md)
+- [ ] 09 - [Files and JSON](docs/01-beginner/09-files-and-json/README.md)
+- [ ] 10 - [Testing basics](docs/01-beginner/10-testing-basics/README.md)
+- [ ] 11 - [Capstone: CLI application](docs/01-beginner/11-capstone-cli/README.md)
 
 **Beginner gate:** [ ] passed on ____ / ____ / ______
 
@@ -74,16 +74,16 @@ Update this file after every study session. The module READMEs contain the detai
 
 ## Intermediate
 
-- [ ] 01 — [Concurrency fundamentals](docs/02-intermediate/01-concurrency-fundamentals/README.md)
-- [ ] 02 — [Context and cancellation](docs/02-intermediate/02-context/README.md)
-- [ ] 03 — [Generics](docs/02-intermediate/03-generics/README.md)
-- [ ] 04 — [HTTP clients and servers](docs/02-intermediate/04-http-clients-and-servers/README.md)
-- [ ] 05 — [Databases](docs/02-intermediate/05-databases/README.md)
-- [ ] 06 — [Project architecture](docs/02-intermediate/06-project-architecture/README.md)
-- [ ] 07 — [Advanced testing](docs/02-intermediate/07-testing-advanced/README.md)
-- [ ] 08 — [Observability](docs/02-intermediate/08-observability/README.md)
-- [ ] 09 — [Docker and deployment](docs/02-intermediate/09-docker-and-deployment/README.md)
-- [ ] 10 — [Capstone: REST API](docs/02-intermediate/10-capstone-rest-api/README.md)
+- [ ] 01 - [Concurrency fundamentals](docs/02-intermediate/01-concurrency-fundamentals/README.md)
+- [ ] 02 - [Context and cancellation](docs/02-intermediate/02-context/README.md)
+- [ ] 03 - [Generics](docs/02-intermediate/03-generics/README.md)
+- [ ] 04 - [HTTP clients and servers](docs/02-intermediate/04-http-clients-and-servers/README.md)
+- [ ] 05 - [Databases](docs/02-intermediate/05-databases/README.md)
+- [ ] 06 - [Project architecture](docs/02-intermediate/06-project-architecture/README.md)
+- [ ] 07 - [Advanced testing](docs/02-intermediate/07-testing-advanced/README.md)
+- [ ] 08 - [Observability](docs/02-intermediate/08-observability/README.md)
+- [ ] 09 - [Docker and deployment](docs/02-intermediate/09-docker-and-deployment/README.md)
+- [ ] 10 - [Capstone: REST API](docs/02-intermediate/10-capstone-rest-api/README.md)
 
 **Intermediate gate:** [ ] passed on ____ / ____ / ______
 
@@ -132,15 +132,15 @@ Update this file after every study session. The module READMEs contain the detai
 
 ## Expert
 
-- [ ] 01 — [Runtime internals](docs/03-expert/01-runtime-internals/README.md)
-- [ ] 02 — [Performance engineering](docs/03-expert/02-performance-engineering/README.md)
-- [ ] 03 — [Advanced concurrency](docs/03-expert/03-advanced-concurrency/README.md)
-- [ ] 04 — [Distributed systems](docs/03-expert/04-distributed-systems/README.md)
-- [ ] 05 — [gRPC and event-driven systems](docs/03-expert/05-grpc-and-event-driven/README.md)
-- [ ] 06 — [Security](docs/03-expert/06-security/README.md)
-- [ ] 07 — [Data at scale](docs/03-expert/07-data-at-scale/README.md)
-- [ ] 08 — [Kubernetes and cloud](docs/03-expert/08-kubernetes-and-cloud/README.md)
-- [ ] 09 — [Capstone: production platform](docs/03-expert/09-capstone-platform/README.md)
+- [ ] 01 - [Runtime internals](docs/03-expert/01-runtime-internals/README.md)
+- [ ] 02 - [Performance engineering](docs/03-expert/02-performance-engineering/README.md)
+- [ ] 03 - [Advanced concurrency](docs/03-expert/03-advanced-concurrency/README.md)
+- [ ] 04 - [Distributed systems](docs/03-expert/04-distributed-systems/README.md)
+- [ ] 05 - [gRPC and event-driven systems](docs/03-expert/05-grpc-and-event-driven/README.md)
+- [ ] 06 - [Security](docs/03-expert/06-security/README.md)
+- [ ] 07 - [Data at scale](docs/03-expert/07-data-at-scale/README.md)
+- [ ] 08 - [Kubernetes and cloud](docs/03-expert/08-kubernetes-and-cloud/README.md)
+- [ ] 09 - [Capstone: production platform](docs/03-expert/09-capstone-platform/README.md)
 
 **Expert gate:** [ ] passed on ____ / ____ / ______
 

@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Pipeline stages: lint, test, build, scan, deploy. Predict the output before running.
-2. **Change** — modify one detail in Caching modules and build layers. Explain the difference.
-3. **Break** — break Secrets and environment promotion on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Pipeline stages: lint, test, build, scan, deploy and Caching modules and build layers in one small program.
+1. **Baseline** - reproduce the smallest working example for Pipeline stages: lint, test, build, scan, deploy. Predict the output before running.
+2. **Change** - modify one detail in Caching modules and build layers. Explain the difference.
+3. **Break** - break Secrets and environment promotion on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Pipeline stages: lint, test, build, scan, deploy and Caching modules and build layers in one small program.
 
 ```go
 // TODO: experiment space

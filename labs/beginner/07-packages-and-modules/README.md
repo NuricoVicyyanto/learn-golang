@@ -1,4 +1,4 @@
-# Lab 07 — Packages and Modules
+# Lab 07 - Packages and Modules
 
 > **Level:** Beginner · **Module guide:** [07 Packages and Modules](../../../docs/01-beginner/07-packages-and-modules/README.md)
 

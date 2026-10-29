@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for The `select` statement and ready cases. Predict the output before running.
-2. **Change** — modify one detail in Timeouts with `time.After` and `context`. Explain the difference.
-3. **Break** — break Avoiding leaks from timers in loops on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use The `select` statement and ready cases and Timeouts with `time.After` and `context` in one small program.
+1. **Baseline** - reproduce the smallest working example for The `select` statement and ready cases. Predict the output before running.
+2. **Change** - modify one detail in Timeouts with `time.After` and `context`. Explain the difference.
+3. **Break** - break Avoiding leaks from timers in loops on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use The `select` statement and ready cases and Timeouts with `time.After` and `context` in one small program.
 
 ```go
 // TODO: experiment space

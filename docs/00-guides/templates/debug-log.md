@@ -4,7 +4,7 @@
 
 # Debug Log
 
-## Bug — _short title_
+## Bug - _short title_
 
 - **Date:**
 - **Module / project:**

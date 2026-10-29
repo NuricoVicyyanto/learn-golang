@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for At-most-once, at-least-once, and exactly-once claims. Predict the output before running.
-2. **Change** — modify one detail in Consumer groups and partition assignment. Explain the difference.
-3. **Break** — break Visibility timeouts and acknowledgements on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use At-most-once, at-least-once, and exactly-once claims and Consumer groups and partition assignment in one small program.
+1. **Baseline** - reproduce the smallest working example for At-most-once, at-least-once, and exactly-once claims. Predict the output before running.
+2. **Change** - modify one detail in Consumer groups and partition assignment. Explain the difference.
+3. **Break** - break Visibility timeouts and acknowledgements on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use At-most-once, at-least-once, and exactly-once claims and Consumer groups and partition assignment in one small program.
 
 ```go
 // TODO: experiment space

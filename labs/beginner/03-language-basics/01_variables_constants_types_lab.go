@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Variables, Constants, and Types
+// Exercise 01 - Variables, Constants, and Types
 //
 // Docs: ../../../docs/01-beginner/03-language-basics/01-variables-constants-types.md
 //

@@ -1,4 +1,4 @@
-# Capstone Lab — Production Platform
+# Capstone Lab - Production Platform
 
 > **Level:** Expert · **Spec:** [Capstone Platform](../../../docs/03-expert/09-capstone-platform/README.md)
 

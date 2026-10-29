@@ -1,4 +1,4 @@
-# Learn Go — From Beginner to Expert
+# Learn Go - From Beginner to Expert
 
 A structured, documentation-first Go curriculum. Every module tells you **what to learn**, **what to build**, and **how to prove you are done**. Most topic notes are intentionally skeletons: you complete them in your own words, because writing and explaining are part of learning.
 
@@ -87,15 +87,15 @@ See [`ROADMAP.md`](ROADMAP.md) for the full sequence and gate checks.
 
 Every topic note has the same sections:
 
-- **Why it matters** — connect the concept to real code.
-- **Learning objectives** — observable things you must be able to do.
-- **Core concepts** — explain each idea in your own words, with a small example.
-- **Code experiments** — run, break, and fix the code.
-- **Common mistakes** — record mistakes you actually made.
-- **Practice** — small tasks that force recall.
-- **Self-check** — questions you must answer without notes.
-- **Summary** — five bullets maximum.
-- **References** — official docs first.
+- **Why it matters** - connect the concept to real code.
+- **Learning objectives** - observable things you must be able to do.
+- **Core concepts** - explain each idea in your own words, with a small example.
+- **Code experiments** - run, break, and fix the code.
+- **Common mistakes** - record mistakes you actually made.
+- **Practice** - small tasks that force recall.
+- **Self-check** - questions you must answer without notes.
+- **Summary** - five bullets maximum.
+- **References** - official docs first.
 
 A note is done when you can explain it to another developer and your code compiles and passes tests.
 

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — Health Checks
+// Exercise 04 - Health Checks
 //
 // Docs: ../../../docs/02-intermediate/08-observability/04-health-checks.md
 //

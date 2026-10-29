@@ -1,4 +1,4 @@
-# Solutions — Context and Cancellation
+# Solutions - Context and Cancellation
 
 > **Level:** Intermediate · Write your own attempt first. A copied solution is not evidence of learning.
 

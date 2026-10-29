@@ -2,9 +2,9 @@
 
 > Copy this file into a module folder as `exercise-log.md` when you want a detailed record. The standard `exercises.md` and `solutions.md` files are usually enough.
 
-# Exercise Log — Module Name
+# Exercise Log - Module Name
 
-## Attempt 1 — _Exercise title_
+## Attempt 1 - _Exercise title_
 
 - **Date:**
 - **Goal:**
@@ -18,7 +18,7 @@
 // Key code or a link to the lab folder.
 ```
 
-## Attempt 2 — _Exercise title_
+## Attempt 2 - _Exercise title_
 
 - **Date:**
 - **Goal:**

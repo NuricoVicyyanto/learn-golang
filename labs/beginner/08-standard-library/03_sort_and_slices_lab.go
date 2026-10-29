@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Sort and Slices
+// Exercise 03 - Sort and Slices
 //
 // Docs: ../../../docs/01-beginner/08-standard-library/03-sort-and-slices.md
 //

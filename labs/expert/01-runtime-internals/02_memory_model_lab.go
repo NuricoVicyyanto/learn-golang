@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — The Memory Model
+// Exercise 02 - The Memory Model
 //
 // Docs: ../../../docs/03-expert/01-runtime-internals/02-memory-model.md
 //

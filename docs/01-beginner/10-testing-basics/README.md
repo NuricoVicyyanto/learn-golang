@@ -56,7 +56,7 @@ go run ./beginner/10-testing-basics
 go test ./beginner/10-testing-basics -v
 ```
 
-## Mini project — Test Suite for the Task Store
+## Mini project - Test Suite for the Task Store
 
 Take the JSON task store from module 09 and give it a real test suite: unit tests for business rules, filesystem tests using `t.TempDir`, and a benchmark for load and save. Measure coverage and document one gap you intentionally accept.
 

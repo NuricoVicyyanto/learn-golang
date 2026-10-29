@@ -1,4 +1,4 @@
-# Lab 07 — Data at Scale
+# Lab 07 - Data at Scale
 
 > **Level:** Expert · **Module guide:** [07 Data at Scale](../../../docs/03-expert/07-data-at-scale/README.md)
 

@@ -55,7 +55,7 @@ go run ./beginner/09-files-and-json
 go test ./beginner/09-files-and-json -v
 ```
 
-## Mini project — JSON Task Store
+## Mini project - JSON Task Store
 
 Build a persistent task store backed by a JSON file. Support add, list, complete, and delete. Writes must be atomic, and a corrupt file must produce a clear error rather than data loss.
 

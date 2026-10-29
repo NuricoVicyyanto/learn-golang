@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — Fuzzing
+// Exercise 04 - Fuzzing
 //
 // Docs: ../../../docs/02-intermediate/07-testing-advanced/04-fuzzing.md
 //

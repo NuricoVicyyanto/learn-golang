@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — Sync Primitives
+// Exercise 04 - Sync Primitives
 //
 // Docs: ../../../docs/02-intermediate/01-concurrency-fundamentals/04-sync-primitives.md
 //

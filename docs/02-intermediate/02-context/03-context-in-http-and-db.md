@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `http.Request.Context`. Predict the output before running.
-2. **Change** — modify one detail in Context-aware database methods. Explain the difference.
-3. **Break** — break Testing cancellation with fake slow dependencies on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `http.Request.Context` and Context-aware database methods in one small program.
+1. **Baseline** - reproduce the smallest working example for `http.Request.Context`. Predict the output before running.
+2. **Change** - modify one detail in Context-aware database methods. Explain the difference.
+3. **Break** - break Testing cancellation with fake slow dependencies on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `http.Request.Context` and Context-aware database methods in one small program.
 
 ```go
 // TODO: experiment space

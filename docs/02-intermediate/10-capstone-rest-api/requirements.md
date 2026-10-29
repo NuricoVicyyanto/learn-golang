@@ -1,4 +1,4 @@
-# Requirements — Capstone: REST API
+# Requirements - Capstone: REST API
 
 > Fill in acceptance criteria before coding. A requirement without a test is a wish.
 
@@ -23,43 +23,43 @@
 
 ## Functional requirements
 
-### FR-01 — Register and authenticate users with hashed passwords and expiring tokens
+### FR-01 - Register and authenticate users with hashed passwords and expiring tokens
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-02 — Create, read, update, delete, and list bookmarks owned by the caller
+### FR-02 - Create, read, update, delete, and list bookmarks owned by the caller
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-03 — Add and remove tags; filter bookmarks by tag
+### FR-03 - Add and remove tags; filter bookmarks by tag
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-04 — Search bookmarks by title and URL with pagination
+### FR-04 - Search bookmarks by title and URL with pagination
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-05 — Return consistent JSON errors with request IDs
+### FR-05 - Return consistent JSON errors with request IDs
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-06 — Expose liveness, readiness, and Prometheus metrics
+### FR-06 - Expose liveness, readiness, and Prometheus metrics
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could
 - **Notes:**
 
-### FR-07 — Run migrations and start with validated configuration
+### FR-07 - Run migrations and start with validated configuration
 
 - **Acceptance criteria:** _write 2–4 testable statements._
 - **Priority:** must / should / could

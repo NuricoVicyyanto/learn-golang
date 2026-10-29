@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `EXPLAIN` and `EXPLAIN ANALYZE`. Predict the output before running.
-2. **Change** — modify one detail in Index types and selectivity. Explain the difference.
-3. **Break** — break Connection pool sizing on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `EXPLAIN` and `EXPLAIN ANALYZE` and Index types and selectivity in one small program.
+1. **Baseline** - reproduce the smallest working example for `EXPLAIN` and `EXPLAIN ANALYZE`. Predict the output before running.
+2. **Change** - modify one detail in Index types and selectivity. Explain the difference.
+3. **Break** - break Connection pool sizing on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `EXPLAIN` and `EXPLAIN ANALYZE` and Index types and selectivity in one small program.
 
 ```go
 // TODO: experiment space

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Packages and Visibility
+// Exercise 01 - Packages and Visibility
 //
 // Docs: ../../../docs/01-beginner/07-packages-and-modules/01-packages-and-visibility.md
 //

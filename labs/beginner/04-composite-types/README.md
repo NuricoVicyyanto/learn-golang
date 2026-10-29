@@ -1,4 +1,4 @@
-# Lab 04 — Composite Types
+# Lab 04 - Composite Types
 
 > **Level:** Beginner · **Module guide:** [04 Composite Types](../../../docs/01-beginner/04-composite-types/README.md)
 

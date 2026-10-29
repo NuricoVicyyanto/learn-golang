@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Your First Test
+// Exercise 01 - Your First Test
 //
 // Docs: ../../../docs/01-beginner/10-testing-basics/01-first-test.md
 //

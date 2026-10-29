@@ -55,7 +55,7 @@ go run ./intermediate/02-context
 go test ./intermediate/02-context -v
 ```
 
-## Mini project — Deadline-Aware Aggregator
+## Mini project - Deadline-Aware Aggregator
 
 Build a small service that aggregates data from three upstreams. Each upstream has its own timeout, the request has an overall budget, and slow upstreams degrade gracefully instead of failing the whole response.
 

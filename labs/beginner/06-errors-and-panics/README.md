@@ -1,4 +1,4 @@
-# Lab 06 — Errors and Panics
+# Lab 06 - Errors and Panics
 
 > **Level:** Beginner · **Module guide:** [06 Errors and Panics](../../../docs/01-beginner/06-errors-and-panics/README.md)
 

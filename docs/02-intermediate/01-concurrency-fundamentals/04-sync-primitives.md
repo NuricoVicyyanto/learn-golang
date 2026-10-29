@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `sync.Mutex` and `sync.RWMutex`. Predict the output before running.
-2. **Change** — modify one detail in `sync.Once` for one-time initialization. Explain the difference.
-3. **Break** — break Choosing channels vs shared memory on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `sync.Mutex` and `sync.RWMutex` and `sync.Once` for one-time initialization in one small program.
+1. **Baseline** - reproduce the smallest working example for `sync.Mutex` and `sync.RWMutex`. Predict the output before running.
+2. **Change** - modify one detail in `sync.Once` for one-time initialization. Explain the difference.
+3. **Break** - break Choosing channels vs shared memory on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `sync.Mutex` and `sync.RWMutex` and `sync.Once` for one-time initialization in one small program.
 
 ```go
 // TODO: experiment space

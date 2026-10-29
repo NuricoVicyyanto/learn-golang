@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Custom Errors
+// Exercise 03 - Custom Errors
 //
 // Docs: ../../../docs/01-beginner/06-errors-and-panics/03-custom-errors.md
 //

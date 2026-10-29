@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Arrays have a fixed length that is part of their type. Predict the output before running.
-2. **Change** — modify one detail in The slice header: pointer, length, and capacity. Explain the difference.
-3. **Break** — break `copy`, `slices.Clone`, and removing elements on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Arrays have a fixed length that is part of their type and The slice header: pointer, length, and capacity in one small program.
+1. **Baseline** - reproduce the smallest working example for Arrays have a fixed length that is part of their type. Predict the output before running.
+2. **Change** - modify one detail in The slice header: pointer, length, and capacity. Explain the difference.
+3. **Break** - break `copy`, `slices.Clone`, and removing elements on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Arrays have a fixed length that is part of their type and The slice header: pointer, length, and capacity in one small program.
 
 ```go
 // TODO: experiment space

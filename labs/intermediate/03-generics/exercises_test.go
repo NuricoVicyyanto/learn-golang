@@ -10,7 +10,7 @@ import "testing"
 //
 // A skipped test is a reminder, not a passing grade.
 
-// 01 — Type Parameters
+// 01 - Type Parameters
 func TestExercise01(t *testing.T) {
 	t.Skip("TODO: implement exercise01, then remove this Skip")
 	if err := exercise01(); err != nil {
@@ -18,7 +18,7 @@ func TestExercise01(t *testing.T) {
 	}
 }
 
-// 02 — Constraints
+// 02 - Constraints
 func TestExercise02(t *testing.T) {
 	t.Skip("TODO: implement exercise02, then remove this Skip")
 	if err := exercise02(); err != nil {
@@ -26,7 +26,7 @@ func TestExercise02(t *testing.T) {
 	}
 }
 
-// 03 — Generic Data Structures
+// 03 - Generic Data Structures
 func TestExercise03(t *testing.T) {
 	t.Skip("TODO: implement exercise03, then remove this Skip")
 	if err := exercise03(); err != nil {

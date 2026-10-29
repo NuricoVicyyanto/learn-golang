@@ -10,7 +10,7 @@ import "testing"
 //
 // A skipped test is a reminder, not a passing grade.
 
-// 01 — Caching
+// 01 - Caching
 func TestExercise01(t *testing.T) {
 	t.Skip("TODO: implement exercise01, then remove this Skip")
 	if err := exercise01(); err != nil {
@@ -18,7 +18,7 @@ func TestExercise01(t *testing.T) {
 	}
 }
 
-// 02 — Query Tuning
+// 02 - Query Tuning
 func TestExercise02(t *testing.T) {
 	t.Skip("TODO: implement exercise02, then remove this Skip")
 	if err := exercise02(); err != nil {
@@ -26,7 +26,7 @@ func TestExercise02(t *testing.T) {
 	}
 }
 
-// 03 — Sharding and Replication
+// 03 - Sharding and Replication
 func TestExercise03(t *testing.T) {
 	t.Skip("TODO: implement exercise03, then remove this Skip")
 	if err := exercise03(); err != nil {

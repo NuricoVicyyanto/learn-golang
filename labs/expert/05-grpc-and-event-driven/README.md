@@ -1,4 +1,4 @@
-# Lab 05 — gRPC and Event-Driven Systems
+# Lab 05 - gRPC and Event-Driven Systems
 
 > **Level:** Expert · **Module guide:** [05 gRPC and Event-Driven Systems](../../../docs/03-expert/05-grpc-and-event-driven/README.md)
 

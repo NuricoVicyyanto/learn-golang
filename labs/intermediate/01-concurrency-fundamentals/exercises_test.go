@@ -10,7 +10,7 @@ import "testing"
 //
 // A skipped test is a reminder, not a passing grade.
 
-// 01 — Goroutines
+// 01 - Goroutines
 func TestExercise01(t *testing.T) {
 	t.Skip("TODO: implement exercise01, then remove this Skip")
 	if err := exercise01(); err != nil {
@@ -18,7 +18,7 @@ func TestExercise01(t *testing.T) {
 	}
 }
 
-// 02 — Channels
+// 02 - Channels
 func TestExercise02(t *testing.T) {
 	t.Skip("TODO: implement exercise02, then remove this Skip")
 	if err := exercise02(); err != nil {
@@ -26,7 +26,7 @@ func TestExercise02(t *testing.T) {
 	}
 }
 
-// 03 — Select and Timeouts
+// 03 - Select and Timeouts
 func TestExercise03(t *testing.T) {
 	t.Skip("TODO: implement exercise03, then remove this Skip")
 	if err := exercise03(); err != nil {
@@ -34,7 +34,7 @@ func TestExercise03(t *testing.T) {
 	}
 }
 
-// 04 — Sync Primitives
+// 04 - Sync Primitives
 func TestExercise04(t *testing.T) {
 	t.Skip("TODO: implement exercise04, then remove this Skip")
 	if err := exercise04(); err != nil {
@@ -42,7 +42,7 @@ func TestExercise04(t *testing.T) {
 	}
 }
 
-// 05 — The Race Detector
+// 05 - The Race Detector
 func TestExercise05(t *testing.T) {
 	t.Skip("TODO: implement exercise05, then remove this Skip")
 	if err := exercise05(); err != nil {
@@ -50,7 +50,7 @@ func TestExercise05(t *testing.T) {
 	}
 }
 
-// 06 — Concurrency Patterns
+// 06 - Concurrency Patterns
 func TestExercise06(t *testing.T) {
 	t.Skip("TODO: implement exercise06, then remove this Skip")
 	if err := exercise06(); err != nil {

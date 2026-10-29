@@ -1,4 +1,4 @@
-# Solutions — Project Architecture
+# Solutions - Project Architecture
 
 > **Level:** Intermediate · Write your own attempt first. A copied solution is not evidence of learning.
 

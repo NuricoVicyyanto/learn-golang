@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Routing and Middleware
+// Exercise 02 - Routing and Middleware
 //
 // Docs: ../../../docs/02-intermediate/04-http-clients-and-servers/02-routing-and-middleware.md
 //

@@ -116,8 +116,8 @@ labs/beginner/03-language-basics/
 
 The three capstone labs are full project skeletons, not single exercises:
 
-- `beginner/capstone-cli` — commands, JSON store, tests
-- `intermediate/capstone-rest-api` — HTTP API, config, store, migrations, Docker
-- `expert/capstone-platform` — API and worker binaries, delivery logic, Kubernetes manifests
+- `beginner/capstone-cli` - commands, JSON store, tests
+- `intermediate/capstone-rest-api` - HTTP API, config, store, migrations, Docker
+- `expert/capstone-platform` - API and worker binaries, delivery logic, Kubernetes manifests
 
 Read the capstone README in `docs/` first, then follow the TODO order in the lab README.

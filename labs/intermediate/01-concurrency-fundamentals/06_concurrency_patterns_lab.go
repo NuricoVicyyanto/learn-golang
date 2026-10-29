@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 06 — Concurrency Patterns
+// Exercise 06 - Concurrency Patterns
 //
 // Docs: ../../../docs/02-intermediate/01-concurrency-fundamentals/06-concurrency-patterns.md
 //

@@ -1,4 +1,4 @@
-# Lab 03 — Advanced Concurrency
+# Lab 03 - Advanced Concurrency
 
 > **Level:** Expert · **Module guide:** [03 Advanced Concurrency](../../../docs/03-expert/03-advanced-concurrency/README.md)
 

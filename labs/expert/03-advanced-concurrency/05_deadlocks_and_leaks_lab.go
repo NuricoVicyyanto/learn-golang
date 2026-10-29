@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 05 — Deadlocks and Leaks
+// Exercise 05 - Deadlocks and Leaks
 //
 // Docs: ../../../docs/03-expert/03-advanced-concurrency/05-deadlocks-and-leaks.md
 //

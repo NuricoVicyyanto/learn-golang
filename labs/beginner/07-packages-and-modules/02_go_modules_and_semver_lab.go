@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Go Modules and Semantic Versioning
+// Exercise 02 - Go Modules and Semantic Versioning
 //
 // Docs: ../../../docs/01-beginner/07-packages-and-modules/02-go-modules-and-semver.md
 //

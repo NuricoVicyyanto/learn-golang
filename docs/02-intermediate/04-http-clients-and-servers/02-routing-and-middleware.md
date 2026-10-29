@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Route patterns and method matching. Predict the output before running.
-2. **Change** — modify one detail in Middleware as `func(http.Handler) http.Handler`. Explain the difference.
-3. **Break** — break Middleware ordering and short-circuiting on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Route patterns and method matching and Middleware as `func(http.Handler) http.Handler` in one small program.
+1. **Baseline** - reproduce the smallest working example for Route patterns and method matching. Predict the output before running.
+2. **Change** - modify one detail in Middleware as `func(http.Handler) http.Handler`. Explain the difference.
+3. **Break** - break Middleware ordering and short-circuiting on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Route patterns and method matching and Middleware as `func(http.Handler) http.Handler` in one small program.
 
 ```go
 // TODO: experiment space

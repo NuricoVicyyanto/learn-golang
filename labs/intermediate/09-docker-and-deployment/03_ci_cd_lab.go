@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — CI/CD
+// Exercise 03 - CI/CD
 //
 // Docs: ../../../docs/02-intermediate/09-docker-and-deployment/03-ci-cd.md
 //

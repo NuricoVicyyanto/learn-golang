@@ -1,4 +1,4 @@
-# Capstone Lab — CLI Application
+# Capstone Lab - CLI Application
 
 > **Level:** Beginner · **Spec:** [Capstone CLI](../../../docs/01-beginner/11-capstone-cli/README.md)
 

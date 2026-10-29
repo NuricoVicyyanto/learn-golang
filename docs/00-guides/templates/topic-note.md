@@ -43,9 +43,9 @@ By the end of this note you can:
 
 ## Code experiments
 
-1. **Baseline** — run the example and record the output.
-2. **Change** — modify one thing. Predict the result before running.
-3. **Break** — cause a failure and explain the error message.
+1. **Baseline** - run the example and record the output.
+2. **Change** - modify one thing. Predict the result before running.
+3. **Break** - cause a failure and explain the error message.
 
 ```go
 // TODO

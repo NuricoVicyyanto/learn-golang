@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Constraints
+// Exercise 02 - Constraints
 //
 // Docs: ../../../docs/02-intermediate/03-generics/02-constraints.md
 //

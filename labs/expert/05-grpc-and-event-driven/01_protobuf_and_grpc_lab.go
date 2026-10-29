@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Protobuf and gRPC
+// Exercise 01 - Protobuf and gRPC
 //
 // Docs: ../../../docs/03-expert/05-grpc-and-event-driven/01-protobuf-and-grpc.md
 //

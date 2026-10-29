@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Embedding and Composition
+// Exercise 03 - Embedding and Composition
 //
 // Docs: ../../../docs/01-beginner/05-methods-and-interfaces/03-embedding-and-composition.md
 //

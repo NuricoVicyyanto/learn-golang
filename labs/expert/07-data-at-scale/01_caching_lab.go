@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Caching
+// Exercise 01 - Caching
 //
 // Docs: ../../../docs/03-expert/07-data-at-scale/01-caching.md
 //

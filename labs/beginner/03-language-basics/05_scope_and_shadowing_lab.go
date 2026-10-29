@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 05 — Scope and Shadowing
+// Exercise 05 - Scope and Shadowing
 //
 // Docs: ../../../docs/01-beginner/03-language-basics/05-scope-and-shadowing.md
 //

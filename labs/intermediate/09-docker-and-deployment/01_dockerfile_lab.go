@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Dockerfile for Go
+// Exercise 01 - Dockerfile for Go
 //
 // Docs: ../../../docs/02-intermediate/09-docker-and-deployment/01-dockerfile.md
 //

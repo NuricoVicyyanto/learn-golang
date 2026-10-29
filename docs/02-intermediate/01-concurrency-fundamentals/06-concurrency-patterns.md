@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Fan-out and fan-in. Predict the output before running.
-2. **Change** — modify one detail in Worker pools and bounded concurrency. Explain the difference.
-3. **Break** — break Context cancellation as the control plane on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Fan-out and fan-in and Worker pools and bounded concurrency in one small program.
+1. **Baseline** - reproduce the smallest working example for Fan-out and fan-in. Predict the output before running.
+2. **Change** - modify one detail in Worker pools and bounded concurrency. Explain the difference.
+3. **Break** - break Context cancellation as the control plane on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Fan-out and fan-in and Worker pools and bounded concurrency in one small program.
 
 ```go
 // TODO: experiment space

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Garbage Collector
+// Exercise 03 - Garbage Collector
 //
 // Docs: ../../../docs/03-expert/01-runtime-internals/03-garbage-collector.md
 //

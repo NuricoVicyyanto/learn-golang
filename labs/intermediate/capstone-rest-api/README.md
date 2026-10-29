@@ -1,4 +1,4 @@
-# Capstone Lab — REST API
+# Capstone Lab - REST API
 
 > **Level:** Intermediate · **Spec:** [Capstone REST API](../../../docs/02-intermediate/10-capstone-rest-api/README.md)
 

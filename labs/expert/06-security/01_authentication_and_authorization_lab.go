@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Authentication and Authorization
+// Exercise 01 - Authentication and Authorization
 //
 // Docs: ../../../docs/03-expert/06-security/01-authentication-and-authorization.md
 //

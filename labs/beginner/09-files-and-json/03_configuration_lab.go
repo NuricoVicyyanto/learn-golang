@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Configuration
+// Exercise 03 - Configuration
 //
 // Docs: ../../../docs/01-beginner/09-files-and-json/03-configuration.md
 //

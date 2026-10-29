@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — JSON APIs
+// Exercise 03 - JSON APIs
 //
 // Docs: ../../../docs/02-intermediate/04-http-clients-and-servers/03-json-apis.md
 //

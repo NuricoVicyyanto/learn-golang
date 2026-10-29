@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — OS and I/O
+// Exercise 04 - OS and I/O
 //
 // Docs: ../../../docs/01-beginner/08-standard-library/04-os-and-io.md
 //

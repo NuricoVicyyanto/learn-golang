@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `json.Marshal` and `json.Unmarshal`. Predict the output before running.
-2. **Change** — modify one detail in Struct tags, field names, and `omitempty`. Explain the difference.
-3. **Break** — break Numbers, `json.Number`, and unknown fields on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `json.Marshal` and `json.Unmarshal` and Struct tags, field names, and `omitempty` in one small program.
+1. **Baseline** - reproduce the smallest working example for `json.Marshal` and `json.Unmarshal`. Predict the output before running.
+2. **Change** - modify one detail in Struct tags, field names, and `omitempty`. Explain the difference.
+3. **Break** - break Numbers, `json.Number`, and unknown fields on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `json.Marshal` and `json.Unmarshal` and Struct tags, field names, and `omitempty` in one small program.
 
 ```go
 // TODO: experiment space

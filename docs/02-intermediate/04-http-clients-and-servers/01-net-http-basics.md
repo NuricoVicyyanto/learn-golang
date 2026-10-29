@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `http.Handler` and `http.HandlerFunc`. Predict the output before running.
-2. **Change** — modify one detail in `http.ServeMux` and path patterns. Explain the difference.
-3. **Break** — break Server timeouts and graceful shutdown on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `http.Handler` and `http.HandlerFunc` and `http.ServeMux` and path patterns in one small program.
+1. **Baseline** - reproduce the smallest working example for `http.Handler` and `http.HandlerFunc`. Predict the output before running.
+2. **Change** - modify one detail in `http.ServeMux` and path patterns. Explain the difference.
+3. **Break** - break Server timeouts and graceful shutdown on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `http.Handler` and `http.HandlerFunc` and `http.ServeMux` and path patterns in one small program.
 
 ```go
 // TODO: experiment space

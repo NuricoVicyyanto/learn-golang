@@ -57,7 +57,7 @@ go run ./beginner/05-methods-and-interfaces
 go test ./beginner/05-methods-and-interfaces -v
 ```
 
-## Mini project — Notification System
+## Mini project - Notification System
 
 Build a small notification service with a `Notifier` interface and email, SMS, and log implementations. A dispatcher selects notifiers from configuration and records delivery results. Keep each notifier independently testable.
 

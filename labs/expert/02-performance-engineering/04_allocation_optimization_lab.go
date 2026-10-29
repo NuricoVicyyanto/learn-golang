@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — Allocation Optimization
+// Exercise 04 - Allocation Optimization
 //
 // Docs: ../../../docs/03-expert/02-performance-engineering/04-allocation-optimization.md
 //

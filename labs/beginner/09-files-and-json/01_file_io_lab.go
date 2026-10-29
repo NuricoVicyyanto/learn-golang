@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — File I/O
+// Exercise 01 - File I/O
 //
 // Docs: ../../../docs/01-beginner/09-files-and-json/01-file-io.md
 //

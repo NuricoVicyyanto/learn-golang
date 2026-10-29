@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — Panic and Recover
+// Exercise 04 - Panic and Recover
 //
 // Docs: ../../../docs/01-beginner/06-errors-and-panics/04-panic-and-recover.md
 //

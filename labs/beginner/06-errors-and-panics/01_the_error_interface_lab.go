@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — The Error Interface
+// Exercise 01 - The Error Interface
 //
 // Docs: ../../../docs/01-beginner/06-errors-and-panics/01-the-error-interface.md
 //

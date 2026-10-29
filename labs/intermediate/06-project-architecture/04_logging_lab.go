@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — Structured Logging
+// Exercise 04 - Structured Logging
 //
 // Docs: ../../../docs/02-intermediate/06-project-architecture/04-logging.md
 //

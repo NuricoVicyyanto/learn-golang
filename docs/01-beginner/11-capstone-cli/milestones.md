@@ -1,4 +1,4 @@
-# Milestones — Capstone: CLI Application
+# Milestones - Capstone: CLI Application
 
 > One milestone per 2–4 sessions. Do not start the next milestone until the current one is demonstrable.
 

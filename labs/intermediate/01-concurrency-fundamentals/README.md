@@ -1,4 +1,4 @@
-# Lab 01 — Concurrency Fundamentals
+# Lab 01 - Concurrency Fundamentals
 
 > **Level:** Intermediate · **Module guide:** [01 Concurrency Fundamentals](../../../docs/02-intermediate/01-concurrency-fundamentals/README.md)
 

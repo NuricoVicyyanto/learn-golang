@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — Repository Pattern
+// Exercise 04 - Repository Pattern
 //
 // Docs: ../../../docs/02-intermediate/05-databases/04-repository-pattern.md
 //

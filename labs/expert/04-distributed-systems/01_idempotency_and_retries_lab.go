@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Idempotency and Retries
+// Exercise 01 - Idempotency and Retries
 //
 // Docs: ../../../docs/03-expert/04-distributed-systems/01-idempotency-and-retries.md
 //

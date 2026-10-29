@@ -1,4 +1,4 @@
-# Lab 08 — Observability
+# Lab 08 - Observability
 
 > **Level:** Intermediate · **Module guide:** [08 Observability](../../../docs/02-intermediate/08-observability/README.md)
 

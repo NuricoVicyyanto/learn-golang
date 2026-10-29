@@ -1,4 +1,4 @@
-# Lab 07 — Advanced Testing
+# Lab 07 - Advanced Testing
 
 > **Level:** Intermediate · **Module guide:** [07 Advanced Testing](../../../docs/02-intermediate/07-testing-advanced/README.md)
 

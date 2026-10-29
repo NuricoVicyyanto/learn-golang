@@ -58,7 +58,7 @@ go run ./beginner/03-language-basics
 go test ./beginner/03-language-basics -v
 ```
 
-## Mini project — Command-Line Calculator
+## Mini project - Command-Line Calculator
 
 Build a calculator that parses simple expressions from the command line, supports `+ - * /`, handles division by zero, and prints a readable error for invalid input. Keep parsing and evaluation in separate functions so they can be tested independently.
 

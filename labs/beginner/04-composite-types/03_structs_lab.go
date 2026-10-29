@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Structs
+// Exercise 03 - Structs
 //
 // Docs: ../../../docs/01-beginner/04-composite-types/03-structs.md
 //

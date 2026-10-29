@@ -56,7 +56,7 @@ go run ./beginner/07-packages-and-modules
 go test ./beginner/07-packages-and-modules -v
 ```
 
-## Mini project — Multi-Package Refactor
+## Mini project - Multi-Package Refactor
 
 Refactor an earlier project into at least three packages with a clear dependency direction. Add package documentation, an `internal/` boundary, and a small exported API. The goal is not more files; it is clearer ownership.
 

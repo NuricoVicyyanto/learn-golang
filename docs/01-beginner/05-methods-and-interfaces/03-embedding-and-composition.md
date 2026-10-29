@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Embedding structs and promoted fields. Predict the output before running.
-2. **Change** — modify one detail in Embedding interfaces and method promotion. Explain the difference.
-3. **Break** — break When embedding improves an API and when it leaks internals on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Embedding structs and promoted fields and Embedding interfaces and method promotion in one small program.
+1. **Baseline** - reproduce the smallest working example for Embedding structs and promoted fields. Predict the output before running.
+2. **Change** - modify one detail in Embedding interfaces and method promotion. Explain the difference.
+3. **Break** - break When embedding improves an API and when it leaks internals on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Embedding structs and promoted fields and Embedding interfaces and method promotion in one small program.
 
 ```go
 // TODO: experiment space

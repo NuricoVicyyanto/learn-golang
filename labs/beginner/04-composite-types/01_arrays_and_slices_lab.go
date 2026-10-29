@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Arrays and Slices
+// Exercise 01 - Arrays and Slices
 //
 // Docs: ../../../docs/01-beginner/04-composite-types/01-arrays-and-slices.md
 //

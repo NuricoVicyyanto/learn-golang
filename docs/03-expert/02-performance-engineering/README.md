@@ -57,7 +57,7 @@ go run ./expert/02-performance-engineering
 go test ./expert/02-performance-engineering -v
 ```
 
-## Mini project — Performance Investigation
+## Mini project - Performance Investigation
 
 Take a deliberately slow service or library, establish a baseline, find the bottleneck with profiles, make one change at a time, and document the measured impact. Include a regression benchmark in CI.
 

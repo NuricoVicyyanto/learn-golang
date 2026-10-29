@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Integration Tests
+// Exercise 03 - Integration Tests
 //
 // Docs: ../../../docs/02-intermediate/07-testing-advanced/03-integration-tests.md
 //

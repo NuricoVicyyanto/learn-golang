@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Methods and Receivers
+// Exercise 01 - Methods and Receivers
 //
 // Docs: ../../../docs/01-beginner/05-methods-and-interfaces/01-methods-and-receivers.md
 //

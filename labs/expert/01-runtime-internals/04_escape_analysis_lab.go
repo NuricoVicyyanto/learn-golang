@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — Escape Analysis
+// Exercise 04 - Escape Analysis
 //
 // Docs: ../../../docs/03-expert/01-runtime-internals/04-escape-analysis.md
 //

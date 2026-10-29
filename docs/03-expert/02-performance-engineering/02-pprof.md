@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for CPU, heap, goroutine, mutex, and block profiles. Predict the output before running.
-2. **Change** — modify one detail in Collecting profiles in tests and services. Explain the difference.
-3. **Break** — break Production profiling safely on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use CPU, heap, goroutine, mutex, and block profiles and Collecting profiles in tests and services in one small program.
+1. **Baseline** - reproduce the smallest working example for CPU, heap, goroutine, mutex, and block profiles. Predict the output before running.
+2. **Change** - modify one detail in Collecting profiles in tests and services. Explain the difference.
+3. **Break** - break Production profiling safely on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use CPU, heap, goroutine, mutex, and block profiles and Collecting profiles in tests and services in one small program.
 
 ```go
 // TODO: experiment space

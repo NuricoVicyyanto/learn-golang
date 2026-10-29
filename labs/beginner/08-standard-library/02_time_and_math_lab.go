@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Time and Math
+// Exercise 02 - Time and Math
 //
 // Docs: ../../../docs/01-beginner/08-standard-library/02-time-and-math.md
 //

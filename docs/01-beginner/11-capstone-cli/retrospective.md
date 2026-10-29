@@ -1,4 +1,4 @@
-# Retrospective — Capstone: CLI Application
+# Retrospective - Capstone: CLI Application
 
 > Write this within 48 hours of finishing. Be specific; vague lessons do not transfer.
 

@@ -125,12 +125,12 @@ Prefer the standard library until a dependency clearly earns its place.
 
 ## Real projects built with Go
 
-- **Docker** — container platform
-- **Kubernetes** — container orchestration
-- **Terraform** — infrastructure as code
-- **Hugo** — static site generator
-- **Prometheus** — monitoring
-- **etcd** — distributed key-value store
+- **Docker** - container platform
+- **Kubernetes** - container orchestration
+- **Terraform** - infrastructure as code
+- **Hugo** - static site generator
+- **Prometheus** - monitoring
+- **etcd** - distributed key-value store
 - Companies such as Cloudflare, Uber, Twitch, Dropbox, and Netflix use Go in production.
 
 ---

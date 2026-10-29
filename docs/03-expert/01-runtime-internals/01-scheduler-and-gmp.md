@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Goroutines (G), OS threads (M), and processors (P). Predict the output before running.
-2. **Change** — modify one detail in Run queues and work stealing. Explain the difference.
-3. **Break** — break Scheduler traces and latency on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Goroutines (G), OS threads (M), and processors (P) and Run queues and work stealing in one small program.
+1. **Baseline** - reproduce the smallest working example for Goroutines (G), OS threads (M), and processors (P). Predict the output before running.
+2. **Change** - modify one detail in Run queues and work stealing. Explain the difference.
+3. **Break** - break Scheduler traces and latency on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Goroutines (G), OS threads (M), and processors (P) and Run queues and work stealing in one small program.
 
 ```go
 // TODO: experiment space

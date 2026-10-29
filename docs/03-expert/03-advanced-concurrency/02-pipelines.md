@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Stage functions and channel ownership. Predict the output before running.
-2. **Change** — modify one detail in Cancellation propagation. Explain the difference.
-3. **Break** — break Testing pipelines for leaks on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Stage functions and channel ownership and Cancellation propagation in one small program.
+1. **Baseline** - reproduce the smallest working example for Stage functions and channel ownership. Predict the output before running.
+2. **Change** - modify one detail in Cancellation propagation. Explain the difference.
+3. **Break** - break Testing pipelines for leaks on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Stage functions and channel ownership and Cancellation propagation in one small program.
 
 ```go
 // TODO: experiment space

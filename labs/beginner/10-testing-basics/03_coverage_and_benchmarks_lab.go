@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Coverage and Benchmarks
+// Exercise 03 - Coverage and Benchmarks
 //
 // Docs: ../../../docs/01-beginner/10-testing-basics/03-coverage-and-benchmarks.md
 //

@@ -1,4 +1,4 @@
-# Rubric — Capstone: CLI Application
+# Rubric - Capstone: CLI Application
 
 Score each area 0–3. Target: **at least 15/18 with no zero in correctness**.
 
@@ -13,10 +13,10 @@ Score each area 0–3. Target: **at least 15/18 with no zero in correctness**.
 
 ## Scoring guide
 
-- **0** — missing or broken.
-- **1** — works partially; needs guidance.
-- **2** — works; minor gaps in tests or clarity.
-- **3** — correct, tested, documented, and defended.
+- **0** - missing or broken.
+- **1** - works partially; needs guidance.
+- **2** - works; minor gaps in tests or clarity.
+- **3** - correct, tested, documented, and defended.
 
 ## Review questions
 

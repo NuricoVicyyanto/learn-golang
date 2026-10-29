@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Layout and Packages
+// Exercise 01 - Layout and Packages
 //
 // Docs: ../../../docs/02-intermediate/06-project-architecture/01-layout-and-packages.md
 //

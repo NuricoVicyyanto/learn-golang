@@ -56,7 +56,7 @@ go run ./intermediate/04-http-clients-and-servers
 go test ./intermediate/04-http-clients-and-servers -v
 ```
 
-## Mini project — URL Shortener API
+## Mini project - URL Shortener API
 
 Build a URL shortener with create, redirect, stats, and delete endpoints. Include validation, collision handling, request limits, and a client package used by the integration tests.
 

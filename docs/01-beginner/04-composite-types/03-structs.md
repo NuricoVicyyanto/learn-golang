@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Defining structs and exported vs unexported fields. Predict the output before running.
-2. **Change** — modify one detail in Composite literals, positional vs keyed fields. Explain the difference.
-3. **Break** — break Struct tags and their role in JSON, validation, and databases on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Defining structs and exported vs unexported fields and Composite literals, positional vs keyed fields in one small program.
+1. **Baseline** - reproduce the smallest working example for Defining structs and exported vs unexported fields. Predict the output before running.
+2. **Change** - modify one detail in Composite literals, positional vs keyed fields. Explain the difference.
+3. **Break** - break Struct tags and their role in JSON, validation, and databases on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Defining structs and exported vs unexported fields and Composite literals, positional vs keyed fields in one small program.
 
 ```go
 // TODO: experiment space

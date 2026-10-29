@@ -57,7 +57,7 @@ go run ./expert/01-runtime-internals
 go test ./expert/01-runtime-internals -v
 ```
 
-## Mini project — Runtime Lab
+## Mini project - Runtime Lab
 
 Create a small lab with reproducible experiments for scheduler behavior, GC tuning, and escape analysis. Each experiment should include a hypothesis, measurement, result, and explanation.
 

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Tracing
+// Exercise 03 - Tracing
 //
 // Docs: ../../../docs/02-intermediate/08-observability/03-tracing.md
 //

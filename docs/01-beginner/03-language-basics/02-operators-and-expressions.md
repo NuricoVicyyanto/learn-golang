@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Arithmetic operators and integer division. Predict the output before running.
-2. **Change** — modify one detail in Comparison and logical operators with short-circuit evaluation. Explain the difference.
-3. **Break** — break String concatenation vs formatted output on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Arithmetic operators and integer division and Comparison and logical operators with short-circuit evaluation in one small program.
+1. **Baseline** - reproduce the smallest working example for Arithmetic operators and integer division. Predict the output before running.
+2. **Change** - modify one detail in Comparison and logical operators with short-circuit evaluation. Explain the difference.
+3. **Break** - break String concatenation vs formatted output on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Arithmetic operators and integer division and Comparison and logical operators with short-circuit evaluation in one small program.
 
 ```go
 // TODO: experiment space

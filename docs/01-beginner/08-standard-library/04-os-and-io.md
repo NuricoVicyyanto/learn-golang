@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `os.Args`, environment variables, and exit codes. Predict the output before running.
-2. **Change** — modify one detail in `io.Reader`, `io.Writer`, and `io.Copy`. Explain the difference.
-3. **Break** — break Propagating I/O errors and closing resources on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `os.Args`, environment variables, and exit codes and `io.Reader`, `io.Writer`, and `io.Copy` in one small program.
+1. **Baseline** - reproduce the smallest working example for `os.Args`, environment variables, and exit codes. Predict the output before running.
+2. **Change** - modify one detail in `io.Reader`, `io.Writer`, and `io.Copy`. Explain the difference.
+3. **Break** - break Propagating I/O errors and closing resources on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `os.Args`, environment variables, and exit codes and `io.Reader`, `io.Writer`, and `io.Copy` in one small program.
 
 ```go
 // TODO: experiment space

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — errgroup and Semaphores
+// Exercise 04 - errgroup and Semaphores
 //
 // Docs: ../../../docs/03-expert/03-advanced-concurrency/04-errgroup-and-semaphores.md
 //

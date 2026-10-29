@@ -1,4 +1,4 @@
-# Exercises — Advanced Concurrency
+# Exercises - Advanced Concurrency
 
 > **Level:** Expert · **Rule:** attempt without notes first. Record failures honestly in [solutions.md](solutions.md).
 
@@ -34,7 +34,7 @@ Pick the topic you understood least. Close the notes and rebuild its main exampl
 
 ## 5. Test and explain
 
-Add a table-driven test for one exercise above. Then write three sentences explaining why the test cases are sufficient — and one case you deliberately left out.
+Add a table-driven test for one exercise above. Then write three sentences explaining why the test cases are sufficient - and one case you deliberately left out.
 
 ## Review
 

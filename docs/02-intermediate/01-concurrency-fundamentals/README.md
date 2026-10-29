@@ -59,7 +59,7 @@ go run ./intermediate/01-concurrency-fundamentals
 go test ./intermediate/01-concurrency-fundamentals -v
 ```
 
-## Mini project — Concurrent File Indexer
+## Mini project - Concurrent File Indexer
 
 Build a CLI that walks a directory tree and computes per-file hashes concurrently. Bound the number of workers, support cancellation with Ctrl+C, and print deterministic results even though work finishes out of order.
 

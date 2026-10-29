@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 05 — The Race Detector
+// Exercise 05 - The Race Detector
 //
 // Docs: ../../../docs/02-intermediate/01-concurrency-fundamentals/05-race-detector.md
 //

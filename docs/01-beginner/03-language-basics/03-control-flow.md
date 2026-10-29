@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `if`, `else if`, `else`, and the initializer statement. Predict the output before running.
-2. **Change** — modify one detail in `switch`, expressionless switch, and the no-fallthrough default. Explain the difference.
-3. **Break** — break `break`, `continue`, labels, and when to avoid `goto` on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `if`, `else if`, `else`, and the initializer statement and `switch`, expressionless switch, and the no-fallthrough default in one small program.
+1. **Baseline** - reproduce the smallest working example for `if`, `else if`, `else`, and the initializer statement. Predict the output before running.
+2. **Change** - modify one detail in `switch`, expressionless switch, and the no-fallthrough default. Explain the difference.
+3. **Break** - break `break`, `continue`, labels, and when to avoid `goto` on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `if`, `else if`, `else`, and the initializer statement and `switch`, expressionless switch, and the no-fallthrough default in one small program.
 
 ```go
 // TODO: experiment space

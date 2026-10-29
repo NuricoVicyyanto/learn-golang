@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Deadlock conditions and lock ordering. Predict the output before running.
-2. **Change** — modify one detail in Goroutine leak patterns. Explain the difference.
-3. **Break** — break Structured concurrency on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Deadlock conditions and lock ordering and Goroutine leak patterns in one small program.
+1. **Baseline** - reproduce the smallest working example for Deadlock conditions and lock ordering. Predict the output before running.
+2. **Change** - modify one detail in Goroutine leak patterns. Explain the difference.
+3. **Break** - break Structured concurrency on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Deadlock conditions and lock ordering and Goroutine leak patterns in one small program.
 
 ```go
 // TODO: experiment space

@@ -1,4 +1,4 @@
-# Lab 03 — Language Basics
+# Lab 03 - Language Basics
 
 > **Level:** Beginner · **Module guide:** [03 Language Basics](../../../docs/01-beginner/03-language-basics/README.md)
 

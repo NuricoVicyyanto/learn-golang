@@ -1,4 +1,4 @@
-# Lab 06 — Security
+# Lab 06 - Security
 
 > **Level:** Expert · **Module guide:** [06 Security](../../../docs/03-expert/06-security/README.md)
 

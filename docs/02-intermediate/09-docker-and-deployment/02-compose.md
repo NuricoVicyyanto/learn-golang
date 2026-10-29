@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Services, networks, and volumes. Predict the output before running.
-2. **Change** — modify one detail in Environment files and secrets. Explain the difference.
-3. **Break** — break Hot reload for development on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Services, networks, and volumes and Environment files and secrets in one small program.
+1. **Baseline** - reproduce the smallest working example for Services, networks, and volumes. Predict the output before running.
+2. **Change** - modify one detail in Environment files and secrets. Explain the difference.
+3. **Break** - break Hot reload for development on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Services, networks, and volumes and Environment files and secrets in one small program.
 
 ```go
 // TODO: experiment space

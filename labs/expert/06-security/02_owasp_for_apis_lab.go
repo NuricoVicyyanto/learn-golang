@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — OWASP for APIs
+// Exercise 02 - OWASP for APIs
 //
 // Docs: ../../../docs/03-expert/06-security/02-owasp-for-apis.md
 //

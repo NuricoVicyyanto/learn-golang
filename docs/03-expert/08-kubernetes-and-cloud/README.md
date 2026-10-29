@@ -55,7 +55,7 @@ go run ./expert/08-kubernetes-and-cloud
 go test ./expert/08-kubernetes-and-cloud -v
 ```
 
-## Mini project — Production Deployment
+## Mini project - Production Deployment
 
 Deploy a Go service to a local Kubernetes cluster with manifests, probes, autoscaling, graceful shutdown, dashboards, and SLO-based alerts. Run a rollout under load without dropping requests.
 

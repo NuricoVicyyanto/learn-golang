@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Migrations
+// Exercise 02 - Migrations
 //
 // Docs: ../../../docs/02-intermediate/05-databases/02-migrations.md
 //

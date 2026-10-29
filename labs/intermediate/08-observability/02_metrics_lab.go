@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Metrics
+// Exercise 02 - Metrics
 //
 // Docs: ../../../docs/02-intermediate/08-observability/02-metrics.md
 //

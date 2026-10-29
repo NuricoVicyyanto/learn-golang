@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Query Tuning
+// Exercise 02 - Query Tuning
 //
 // Docs: ../../../docs/03-expert/07-data-at-scale/02-query-tuning.md
 //

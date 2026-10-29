@@ -1,4 +1,4 @@
-# Solutions — Data at Scale
+# Solutions - Data at Scale
 
 > **Level:** Expert · Write your own attempt first. A copied solution is not evidence of learning.
 

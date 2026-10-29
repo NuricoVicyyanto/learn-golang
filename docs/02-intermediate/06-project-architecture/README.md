@@ -56,7 +56,7 @@ go run ./intermediate/06-project-architecture
 go test ./intermediate/06-project-architecture -v
 ```
 
-## Mini project — Service Skeleton
+## Mini project - Service Skeleton
 
 Create a reusable service skeleton with explicit wiring, validated configuration, structured logging, health endpoints, and a clean shutdown path. It should be small enough to read in one sitting.
 

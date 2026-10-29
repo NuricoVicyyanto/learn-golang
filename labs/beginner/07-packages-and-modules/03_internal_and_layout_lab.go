@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Internal Packages and Project Layout
+// Exercise 03 - Internal Packages and Project Layout
 //
 // Docs: ../../../docs/01-beginner/07-packages-and-modules/03-internal-and-layout.md
 //

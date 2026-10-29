@@ -1,4 +1,4 @@
-# Retrospective — Capstone: REST API
+# Retrospective - Capstone: REST API
 
 > Write this within 48 hours of finishing. Be specific; vague lessons do not transfer.
 

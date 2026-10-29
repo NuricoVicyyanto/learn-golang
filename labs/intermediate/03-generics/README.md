@@ -1,4 +1,4 @@
-# Lab 03 — Generics
+# Lab 03 - Generics
 
 > **Level:** Intermediate · **Module guide:** [03 Generics](../../../docs/02-intermediate/03-generics/README.md)
 

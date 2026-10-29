@@ -57,7 +57,7 @@ go run ./intermediate/05-databases
 go test ./intermediate/05-databases -v
 ```
 
-## Mini project — Bookmark Store
+## Mini project - Bookmark Store
 
 Build the persistence layer for a bookmark manager using PostgreSQL and `database/sql`. Include migrations, a repository API, pagination, full-text search, and transaction tests.
 

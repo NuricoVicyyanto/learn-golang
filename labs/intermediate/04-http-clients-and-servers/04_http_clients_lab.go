@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — HTTP Clients and Resilience
+// Exercise 04 - HTTP Clients and Resilience
 //
 // Docs: ../../../docs/02-intermediate/04-http-clients-and-servers/04-http-clients.md
 //

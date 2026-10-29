@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Observability in Production
+// Exercise 03 - Observability in Production
 //
 // Docs: ../../../docs/03-expert/08-kubernetes-and-cloud/03-observability-in-production.md
 //

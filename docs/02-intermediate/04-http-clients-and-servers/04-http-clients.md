@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Configuring `http.Client` and transports. Predict the output before running.
-2. **Change** — modify one detail in Timeouts: connect, TLS, response headers, total. Explain the difference.
-3. **Break** — break Testing with `httptest` on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Configuring `http.Client` and transports and Timeouts: connect, TLS, response headers, total in one small program.
+1. **Baseline** - reproduce the smallest working example for Configuring `http.Client` and transports. Predict the output before running.
+2. **Change** - modify one detail in Timeouts: connect, TLS, response headers, total. Explain the difference.
+3. **Break** - break Testing with `httptest` on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Configuring `http.Client` and transports and Timeouts: connect, TLS, response headers, total in one small program.
 
 ```go
 // TODO: experiment space

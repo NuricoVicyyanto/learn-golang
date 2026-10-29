@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Goroutines
+// Exercise 01 - Goroutines
 //
 // Docs: ../../../docs/02-intermediate/01-concurrency-fundamentals/01-goroutines.md
 //

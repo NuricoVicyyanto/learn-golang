@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Defining an error type with fields. Predict the output before running.
-2. **Change** — modify one detail in Implementing `Error()` on a value or pointer. Explain the difference.
-3. **Break** — break Error codes vs error types on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Defining an error type with fields and Implementing `Error()` on a value or pointer in one small program.
+1. **Baseline** - reproduce the smallest working example for Defining an error type with fields. Predict the output before running.
+2. **Change** - modify one detail in Implementing `Error()` on a value or pointer. Explain the difference.
+3. **Break** - break Error codes vs error types on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Defining an error type with fields and Implementing `Error()` on a value or pointer in one small program.
 
 ```go
 // TODO: experiment space

@@ -1,4 +1,4 @@
-# Lab 08 — Standard Library Essentials
+# Lab 08 - Standard Library Essentials
 
 > **Level:** Beginner · **Module guide:** [08 Standard Library Essentials](../../../docs/01-beginner/08-standard-library/README.md)
 

@@ -55,7 +55,7 @@ go run ./intermediate/09-docker-and-deployment
 go test ./intermediate/09-docker-and-deployment -v
 ```
 
-## Mini project — Deployable API
+## Mini project - Deployable API
 
 Package the URL shortener or bookmark API for deployment: multi-stage image, Compose stack with database, migrations on startup, health checks, and a CI pipeline that builds and tests everything.
 

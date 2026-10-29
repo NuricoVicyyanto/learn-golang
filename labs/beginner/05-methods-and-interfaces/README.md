@@ -1,4 +1,4 @@
-# Lab 05 — Methods and Interfaces
+# Lab 05 - Methods and Interfaces
 
 > **Level:** Beginner · **Module guide:** [05 Methods and Interfaces](../../../docs/01-beginner/05-methods-and-interfaces/README.md)
 

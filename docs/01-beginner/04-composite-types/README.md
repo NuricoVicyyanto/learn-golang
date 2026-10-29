@@ -57,7 +57,7 @@ go run ./beginner/04-composite-types
 go test ./beginner/04-composite-types -v
 ```
 
-## Mini project — Contact Book
+## Mini project - Contact Book
 
 Build a command-line contact book backed by in-memory structs and maps. Support add, search, update, delete, and list. Keep storage behind a small interface so it can later be replaced by a JSON file.
 

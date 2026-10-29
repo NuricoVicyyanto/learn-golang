@@ -8,12 +8,12 @@ This curriculum is designed for deliberate practice, not passive reading. The no
 
 For every topic:
 
-1. **Preview (5 min)** — read the objectives and the topic headings. Write two questions you expect to answer.
-2. **Study (20–30 min)** — read one authoritative source. Take sparse notes: ideas, examples, and questions. Do not highlight.
-3. **Experiment (20–30 min)** — type the examples. Change one thing at a time. Predict the result before running.
-4. **Recall (10 min)** — close everything and explain the topic aloud or on a blank page.
-5. **Apply (20–40 min)** — solve the practice task and write a test.
-6. **Review (5 min)** — add mistakes to the note and schedule a review.
+1. **Preview (5 min)** - read the objectives and the topic headings. Write two questions you expect to answer.
+2. **Study (20–30 min)** - read one authoritative source. Take sparse notes: ideas, examples, and questions. Do not highlight.
+3. **Experiment (20–30 min)** - type the examples. Change one thing at a time. Predict the result before running.
+4. **Recall (10 min)** - close everything and explain the topic aloud or on a blank page.
+5. **Apply (20–40 min)** - solve the practice task and write a test.
+6. **Review (5 min)** - add mistakes to the note and schedule a review.
 
 If you cannot do step 4, you studied but did not learn. Go back to step 2 with a smaller question.
 
@@ -102,9 +102,9 @@ A bug you can explain is worth more than three tutorials you finished.
 
 Schedule reviews after:
 
-- **1 day** — recall the summary and one code example.
-- **1 week** — solve one exercise again from scratch.
-- **1 month** — explain the topic and connect it to a later module.
+- **1 day** - recall the summary and one code example.
+- **1 week** - solve one exercise again from scratch.
+- **1 month** - explain the topic and connect it to a later module.
 
 Use the review queue in `PROGRESS.md`. If you fail a review, mark the topic 🔁 and revisit the note, not the whole module.
 

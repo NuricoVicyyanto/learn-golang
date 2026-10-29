@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Interfaces
+// Exercise 02 - Interfaces
 //
 // Docs: ../../../docs/01-beginner/05-methods-and-interfaces/02-interfaces.md
 //

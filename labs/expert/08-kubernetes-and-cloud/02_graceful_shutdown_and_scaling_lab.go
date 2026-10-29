@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Graceful Shutdown and Scaling
+// Exercise 02 - Graceful Shutdown and Scaling
 //
 // Docs: ../../../docs/03-expert/08-kubernetes-and-cloud/02-graceful-shutdown-and-scaling.md
 //

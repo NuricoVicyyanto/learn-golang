@@ -1,4 +1,4 @@
-# Rubric — Capstone: REST API
+# Rubric - Capstone: REST API
 
 Score each area 0–3. Target: **at least 18/24 with no zero in correctness or security**.
 
@@ -15,10 +15,10 @@ Score each area 0–3. Target: **at least 18/24 with no zero in correctness or s
 
 ## Scoring guide
 
-- **0** — missing or broken.
-- **1** — works partially; needs guidance.
-- **2** — works; minor gaps in tests or clarity.
-- **3** — correct, tested, documented, and defended.
+- **0** - missing or broken.
+- **1** - works partially; needs guidance.
+- **2** - works; minor gaps in tests or clarity.
+- **3** - correct, tested, documented, and defended.
 
 ## Review questions
 

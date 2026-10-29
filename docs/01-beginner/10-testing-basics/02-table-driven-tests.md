@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Table structs and test cases. Predict the output before running.
-2. **Change** — modify one detail in Subtests with `t.Run`. Explain the difference.
-3. **Break** — break Golden files for large outputs on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Table structs and test cases and Subtests with `t.Run` in one small program.
+1. **Baseline** - reproduce the smallest working example for Table structs and test cases. Predict the output before running.
+2. **Change** - modify one detail in Subtests with `t.Run`. Explain the difference.
+3. **Break** - break Golden files for large outputs on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Table structs and test cases and Subtests with `t.Run` in one small program.
 
 ```go
 // TODO: experiment space

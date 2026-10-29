@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — Type Assertions and Switches
+// Exercise 04 - Type Assertions and Switches
 //
 // Docs: ../../../docs/01-beginner/05-methods-and-interfaces/04-type-assertions-and-switches.md
 //

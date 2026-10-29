@@ -1,4 +1,4 @@
-# Lab 09 — Docker and Deployment
+# Lab 09 - Docker and Deployment
 
 > **Level:** Intermediate · **Module guide:** [09 Docker and Deployment](../../../docs/02-intermediate/09-docker-and-deployment/README.md)
 

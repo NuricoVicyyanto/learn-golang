@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Cancellation and Deadlines
+// Exercise 02 - Cancellation and Deadlines
 //
 // Docs: ../../../docs/02-intermediate/02-context/02-cancellation-and-deadlines.md
 //

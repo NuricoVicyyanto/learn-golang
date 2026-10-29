@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for What a data race is. Predict the output before running.
-2. **Change** — modify one detail in Running tests with `-race`. Explain the difference.
-3. **Break** — break Fixing a race without over-locking on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use What a data race is and Running tests with `-race` in one small program.
+1. **Baseline** - reproduce the smallest working example for What a data race is. Predict the output before running.
+2. **Change** - modify one detail in Running tests with `-race`. Explain the difference.
+3. **Break** - break Fixing a race without over-locking on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use What a data race is and Running tests with `-race` in one small program.
 
 ```go
 // TODO: experiment space

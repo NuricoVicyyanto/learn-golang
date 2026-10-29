@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Bounded queues and blocking. Predict the output before running.
-2. **Change** — modify one detail in Load shedding and admission control. Explain the difference.
-3. **Break** — break Queue depth and latency metrics on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Bounded queues and blocking and Load shedding and admission control in one small program.
+1. **Baseline** - reproduce the smallest working example for Bounded queues and blocking. Predict the output before running.
+2. **Change** - modify one detail in Load shedding and admission control. Explain the difference.
+3. **Break** - break Queue depth and latency metrics on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Bounded queues and blocking and Load shedding and admission control in one small program.
 
 ```go
 // TODO: experiment space

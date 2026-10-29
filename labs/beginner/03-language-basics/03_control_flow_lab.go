@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Control Flow
+// Exercise 03 - Control Flow
 //
 // Docs: ../../../docs/01-beginner/03-language-basics/03-control-flow.md
 //

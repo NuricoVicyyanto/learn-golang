@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — Pointers
+// Exercise 04 - Pointers
 //
 // Docs: ../../../docs/01-beginner/04-composite-types/04-pointers.md
 //

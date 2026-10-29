@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `go mod init`, `go get`, and `go mod tidy`. Predict the output before running.
-2. **Change** — modify one detail in `go.mod` and `go.sum`. Explain the difference.
-3. **Break** — break Vendoring and module proxies on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `go mod init`, `go get`, and `go mod tidy` and `go.mod` and `go.sum` in one small program.
+1. **Baseline** - reproduce the smallest working example for `go mod init`, `go get`, and `go mod tidy`. Predict the output before running.
+2. **Change** - modify one detail in `go.mod` and `go.sum`. Explain the difference.
+3. **Break** - break Vendoring and module proxies on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `go mod init`, `go get`, and `go mod tidy` and `go.mod` and `go.sum` in one small program.
 
 ```go
 // TODO: experiment space

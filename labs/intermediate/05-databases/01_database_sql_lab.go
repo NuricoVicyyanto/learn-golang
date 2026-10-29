@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — database/sql
+// Exercise 01 - database/sql
 //
 // Docs: ../../../docs/02-intermediate/05-databases/01-database-sql.md
 //

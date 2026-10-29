@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Kafka or NATS
+// Exercise 03 - Kafka or NATS
 //
 // Docs: ../../../docs/03-expert/05-grpc-and-event-driven/03-kafka-or-nats.md
 //

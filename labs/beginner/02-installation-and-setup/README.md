@@ -1,4 +1,4 @@
-# Lab 02 — Installation and Setup
+# Lab 02 - Installation and Setup
 
 > **Level:** Beginner · **Module guide:** [02 Installation and Setup](../../../docs/01-beginner/02-installation-and-setup/README.md)
 

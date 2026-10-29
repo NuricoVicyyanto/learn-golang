@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Signatures, parameters, and multiple return values. Predict the output before running.
-2. **Change** — modify one detail in Named results and naked returns. Explain the difference.
-3. **Break** — break `defer`, argument evaluation, and LIFO order on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Signatures, parameters, and multiple return values and Named results and naked returns in one small program.
+1. **Baseline** - reproduce the smallest working example for Signatures, parameters, and multiple return values. Predict the output before running.
+2. **Change** - modify one detail in Named results and naked returns. Explain the difference.
+3. **Break** - break `defer`, argument evaluation, and LIFO order on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Signatures, parameters, and multiple return values and Named results and naked returns in one small program.
 
 ```go
 // TODO: experiment space

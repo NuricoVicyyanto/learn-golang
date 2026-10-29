@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Context Basics
+// Exercise 01 - Context Basics
 //
 // Docs: ../../../docs/02-intermediate/02-context/01-context-basics.md
 //

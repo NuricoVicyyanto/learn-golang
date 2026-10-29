@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — Supply Chain Security
+// Exercise 04 - Supply Chain Security
 //
 // Docs: ../../../docs/03-expert/06-security/04-supply-chain-security.md
 //

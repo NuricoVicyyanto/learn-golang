@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Type Parameters
+// Exercise 01 - Type Parameters
 //
 // Docs: ../../../docs/02-intermediate/03-generics/01-type-parameters.md
 //

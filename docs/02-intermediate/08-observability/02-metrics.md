@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Counters, gauges, and histograms. Predict the output before running.
-2. **Change** — modify one detail in Prometheus client and exposition. Explain the difference.
-3. **Break** — break Histogram buckets and percentiles on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Counters, gauges, and histograms and Prometheus client and exposition in one small program.
+1. **Baseline** - reproduce the smallest working example for Counters, gauges, and histograms. Predict the output before running.
+2. **Change** - modify one detail in Prometheus client and exposition. Explain the difference.
+3. **Break** - break Histogram buckets and percentiles on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Counters, gauges, and histograms and Prometheus client and exposition in one small program.
 
 ```go
 // TODO: experiment space

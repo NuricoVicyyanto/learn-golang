@@ -1,4 +1,4 @@
-# Lab 01 — Introduction to Go
+# Lab 01 - Introduction to Go
 
 > **Level:** Beginner · **Module guide:** [01 Introduction to Go](../../../docs/01-beginner/01-introduction-to-go/README.md)
 

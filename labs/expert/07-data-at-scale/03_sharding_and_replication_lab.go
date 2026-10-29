@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Sharding and Replication
+// Exercise 03 - Sharding and Replication
 //
 // Docs: ../../../docs/03-expert/07-data-at-scale/03-sharding-and-replication.md
 //

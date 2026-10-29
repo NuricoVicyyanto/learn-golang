@@ -57,7 +57,7 @@ go run ./beginner/06-errors-and-panics
 go test ./beginner/06-errors-and-panics -v
 ```
 
-## Mini project — Resilient CSV Importer
+## Mini project - Resilient CSV Importer
 
 Build a CSV importer that validates rows, reports all row-level errors with line numbers, and continues processing valid rows. Distinguish parse errors, validation errors, and I/O errors so the caller can react differently.
 

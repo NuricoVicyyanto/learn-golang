@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Operators and Expressions
+// Exercise 02 - Operators and Expressions
 //
 // Docs: ../../../docs/01-beginner/03-language-basics/02-operators-and-expressions.md
 //

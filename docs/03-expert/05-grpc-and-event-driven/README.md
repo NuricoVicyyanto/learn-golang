@@ -55,7 +55,7 @@ go run ./expert/05-grpc-and-event-driven
 go test ./expert/05-grpc-and-event-driven -v
 ```
 
-## Mini project — Typed Event Service
+## Mini project - Typed Event Service
 
 Build a gRPC service with a companion event consumer. The service owns one aggregate, publishes events through an outbox, and exposes a streaming endpoint. Include schema compatibility checks.
 

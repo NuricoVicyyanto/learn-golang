@@ -1,4 +1,4 @@
-# Lab 05 — Databases
+# Lab 05 - Databases
 
 > **Level:** Intermediate · **Module guide:** [05 Databases](../../../docs/02-intermediate/05-databases/README.md)
 

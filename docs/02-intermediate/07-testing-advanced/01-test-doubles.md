@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Fakes vs stubs vs mocks. Predict the output before running.
-2. **Change** — modify one detail in Consumer-defined interfaces. Explain the difference.
-3. **Break** — break When to use the real dependency on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Fakes vs stubs vs mocks and Consumer-defined interfaces in one small program.
+1. **Baseline** - reproduce the smallest working example for Fakes vs stubs vs mocks. Predict the output before running.
+2. **Change** - modify one detail in Consumer-defined interfaces. Explain the difference.
+3. **Break** - break When to use the real dependency on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Fakes vs stubs vs mocks and Consumer-defined interfaces in one small program.
 
 ```go
 // TODO: experiment space

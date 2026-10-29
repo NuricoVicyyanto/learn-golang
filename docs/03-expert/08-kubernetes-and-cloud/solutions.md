@@ -1,4 +1,4 @@
-# Solutions — Kubernetes and Cloud
+# Solutions - Kubernetes and Cloud
 
 > **Level:** Expert · Write your own attempt first. A copied solution is not evidence of learning.
 

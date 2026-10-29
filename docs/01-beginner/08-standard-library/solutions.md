@@ -1,4 +1,4 @@
-# Solutions — Standard Library Essentials
+# Solutions - Standard Library Essentials
 
 > **Level:** Beginner · Write your own attempt first. A copied solution is not evidence of learning.
 

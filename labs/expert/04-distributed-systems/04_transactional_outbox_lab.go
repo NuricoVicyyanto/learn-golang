@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 04 — Transactional Outbox
+// Exercise 04 - Transactional Outbox
 //
 // Docs: ../../../docs/03-expert/04-distributed-systems/04-transactional-outbox.md
 //

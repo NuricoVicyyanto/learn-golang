@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `time.Time`, `time.Duration`, and locations. Predict the output before running.
-2. **Change** — modify one detail in Formatting and parsing with reference layouts. Explain the difference.
-3. **Break** — break `math` constants, rounding, NaN, and infinity on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `time.Time`, `time.Duration`, and locations and Formatting and parsing with reference layouts in one small program.
+1. **Baseline** - reproduce the smallest working example for `time.Time`, `time.Duration`, and locations. Predict the output before running.
+2. **Change** - modify one detail in Formatting and parsing with reference layouts. Explain the difference.
+3. **Break** - break `math` constants, rounding, NaN, and infinity on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `time.Time`, `time.Duration`, and locations and Formatting and parsing with reference layouts in one small program.
 
 ```go
 // TODO: experiment space

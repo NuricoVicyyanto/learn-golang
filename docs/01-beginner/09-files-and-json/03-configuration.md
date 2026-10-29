@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Configuration precedence: defaults, file, environment, flags. Predict the output before running.
-2. **Change** — modify one detail in Environment variables and parsing. Explain the difference.
-3. **Break** — break Secrets and what must never be logged on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Configuration precedence: defaults, file, environment, flags and Environment variables and parsing in one small program.
+1. **Baseline** - reproduce the smallest working example for Configuration precedence: defaults, file, environment, flags. Predict the output before running.
+2. **Change** - modify one detail in Environment variables and parsing. Explain the difference.
+3. **Break** - break Secrets and what must never be logged on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Configuration precedence: defaults, file, environment, flags and Environment variables and parsing in one small program.
 
 ```go
 // TODO: experiment space

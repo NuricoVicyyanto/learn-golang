@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `var` declarations vs short variable declarations (`:=`). Predict the output before running.
-2. **Change** — modify one detail in Zero values and type inference. Explain the difference.
-3. **Break** — break Type conversion, overflow, and `strconv` on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `var` declarations vs short variable declarations (`:=`) and Zero values and type inference in one small program.
+1. **Baseline** - reproduce the smallest working example for `var` declarations vs short variable declarations (`:=`). Predict the output before running.
+2. **Change** - modify one detail in Zero values and type inference. Explain the difference.
+3. **Break** - break Type conversion, overflow, and `strconv` on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `var` declarations vs short variable declarations (`:=`) and Zero values and type inference in one small program.
 
 ```go
 // TODO: experiment space

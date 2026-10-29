@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `errgroup.Group` and `WithContext`. Predict the output before running.
-2. **Change** — modify one detail in `SetLimit` for bounded concurrency. Explain the difference.
-3. **Break** — break Cancellation on first failure on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `errgroup.Group` and `WithContext` and `SetLimit` for bounded concurrency in one small program.
+1. **Baseline** - reproduce the smallest working example for `errgroup.Group` and `WithContext`. Predict the output before running.
+2. **Change** - modify one detail in `SetLimit` for bounded concurrency. Explain the difference.
+3. **Break** - break Cancellation on first failure on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `errgroup.Group` and `WithContext` and `SetLimit` for bounded concurrency in one small program.
 
 ```go
 // TODO: experiment space

@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `context.WithCancel`. Predict the output before running.
-2. **Change** — modify one detail in `context.WithTimeout` and `WithDeadline`. Explain the difference.
-3. **Break** — break Deadline propagation across services on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `context.WithCancel` and `context.WithTimeout` and `WithDeadline` in one small program.
+1. **Baseline** - reproduce the smallest working example for `context.WithCancel`. Predict the output before running.
+2. **Change** - modify one detail in `context.WithTimeout` and `WithDeadline`. Explain the difference.
+3. **Break** - break Deadline propagation across services on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `context.WithCancel` and `context.WithTimeout` and `WithDeadline` in one small program.
 
 ```go
 // TODO: experiment space

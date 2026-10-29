@@ -1,4 +1,4 @@
-# Solutions — Errors and Panics
+# Solutions - Errors and Panics
 
 > **Level:** Beginner · Write your own attempt first. A copied solution is not evidence of learning.
 

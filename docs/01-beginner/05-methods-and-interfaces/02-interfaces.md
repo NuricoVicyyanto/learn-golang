@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Implicit implementation: no `implements` keyword. Predict the output before running.
-2. **Change** — modify one detail in An interface value holds a dynamic type and value. Explain the difference.
-3. **Break** — break nil interface values vs interfaces holding nil pointers on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Implicit implementation: no `implements` keyword and An interface value holds a dynamic type and value in one small program.
+1. **Baseline** - reproduce the smallest working example for Implicit implementation: no `implements` keyword. Predict the output before running.
+2. **Change** - modify one detail in An interface value holds a dynamic type and value. Explain the difference.
+3. **Break** - break nil interface values vs interfaces holding nil pointers on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Implicit implementation: no `implements` keyword and An interface value holds a dynamic type and value in one small program.
 
 ```go
 // TODO: experiment space

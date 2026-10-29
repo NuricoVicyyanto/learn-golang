@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Block scope and declaration order. Predict the output before running.
-2. **Change** — modify one detail in Package-level scope and initialization order. Explain the difference.
-3. **Break** — break Naming and package-level state on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Block scope and declaration order and Package-level scope and initialization order in one small program.
+1. **Baseline** - reproduce the smallest working example for Block scope and declaration order. Predict the output before running.
+2. **Change** - modify one detail in Package-level scope and initialization order. Explain the difference.
+3. **Break** - break Naming and package-level state on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Block scope and declaration order and Package-level scope and initialization order in one small program.
 
 ```go
 // TODO: experiment space

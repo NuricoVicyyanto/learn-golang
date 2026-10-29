@@ -1,4 +1,4 @@
-# Rubric — Capstone: Production Platform
+# Rubric - Capstone: Production Platform
 
 Score each area 0–3. Target: **at least 22/27 with no zero in reliability, security, or testing**.
 
@@ -16,10 +16,10 @@ Score each area 0–3. Target: **at least 22/27 with no zero in reliability, sec
 
 ## Scoring guide
 
-- **0** — missing or broken.
-- **1** — works partially; needs guidance.
-- **2** — works; minor gaps in tests or clarity.
-- **3** — correct, tested, documented, and defended.
+- **0** - missing or broken.
+- **1** - works partially; needs guidance.
+- **2** - works; minor gaps in tests or clarity.
+- **3** - correct, tested, documented, and defended.
 
 ## Review questions
 

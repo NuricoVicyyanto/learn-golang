@@ -1,4 +1,4 @@
-# Lab 02 — Performance Engineering
+# Lab 02 - Performance Engineering
 
 > **Level:** Expert · **Module guide:** [02 Performance Engineering](../../../docs/03-expert/02-performance-engineering/README.md)
 

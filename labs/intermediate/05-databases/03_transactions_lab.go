@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Transactions
+// Exercise 03 - Transactions
 //
 // Docs: ../../../docs/02-intermediate/05-databases/03-transactions.md
 //

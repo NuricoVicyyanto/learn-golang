@@ -1,4 +1,4 @@
-# Solutions — Methods and Interfaces
+# Solutions - Methods and Interfaces
 
 > **Level:** Beginner · Write your own attempt first. A copied solution is not evidence of learning.
 

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Maps
+// Exercise 02 - Maps
 //
 // Docs: ../../../docs/01-beginner/04-composite-types/02-maps.md
 //

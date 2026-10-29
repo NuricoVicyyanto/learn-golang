@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Context in HTTP and Databases
+// Exercise 03 - Context in HTTP and Databases
 //
 // Docs: ../../../docs/02-intermediate/02-context/03-context-in-http-and-db.md
 //

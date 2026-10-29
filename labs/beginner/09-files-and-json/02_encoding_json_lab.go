@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Encoding JSON
+// Exercise 02 - Encoding JSON
 //
 // Docs: ../../../docs/01-beginner/09-files-and-json/02-encoding-json.md
 //

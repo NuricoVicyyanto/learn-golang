@@ -1,4 +1,4 @@
-# Solutions — Performance Engineering
+# Solutions - Performance Engineering
 
 > **Level:** Expert · Write your own attempt first. A copied solution is not evidence of learning.
 

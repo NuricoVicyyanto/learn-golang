@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Test Doubles
+// Exercise 01 - Test Doubles
 //
 // Docs: ../../../docs/02-intermediate/07-testing-advanced/01-test-doubles.md
 //

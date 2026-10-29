@@ -56,7 +56,7 @@ go run ./intermediate/08-observability
 go test ./intermediate/08-observability -v
 ```
 
-## Mini project — Observable Service
+## Mini project - Observable Service
 
 Take the API from module 04 and make it operable: structured logs, RED metrics, traces across handler and database, and separate liveness/readiness endpoints. Include a small dashboard description.
 

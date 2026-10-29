@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Select and Timeouts
+// Exercise 03 - Select and Timeouts
 //
 // Docs: ../../../docs/02-intermediate/01-concurrency-fundamentals/03-select-and-timeouts.md
 //

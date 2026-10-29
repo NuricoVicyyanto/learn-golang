@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for When panic is appropriate: programmer errors, impossible states. Predict the output before running.
-2. **Change** — modify one detail in The `recover` built-in and deferred functions. Explain the difference.
-3. **Break** — break Stack traces and crash reports on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use When panic is appropriate: programmer errors, impossible states and The `recover` built-in and deferred functions in one small program.
+1. **Baseline** - reproduce the smallest working example for When panic is appropriate: programmer errors, impossible states. Predict the output before running.
+2. **Change** - modify one detail in The `recover` built-in and deferred functions. Explain the difference.
+3. **Break** - break Stack traces and crash reports on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use When panic is appropriate: programmer errors, impossible states and The `recover` built-in and deferred functions in one small program.
 
 ```go
 // TODO: experiment space

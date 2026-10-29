@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Secrets and TLS
+// Exercise 03 - Secrets and TLS
 //
 // Docs: ../../../docs/03-expert/06-security/03-secrets-and-tls.md
 //

@@ -1,4 +1,4 @@
-# Retrospective — Capstone: Production Platform
+# Retrospective - Capstone: Production Platform
 
 > Write this within 48 hours of finishing. Be specific; vague lessons do not transfer.
 

@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `sql.DB` as a pool, not a connection. Predict the output before running.
-2. **Change** — modify one detail in `Query`, `QueryRow`, and `Exec`. Explain the difference.
-3. **Break** — break Connection pool configuration on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use `sql.DB` as a pool, not a connection and `Query`, `QueryRow`, and `Exec` in one small program.
+1. **Baseline** - reproduce the smallest working example for `sql.DB` as a pool, not a connection. Predict the output before running.
+2. **Change** - modify one detail in `Query`, `QueryRow`, and `Exec`. Explain the difference.
+3. **Break** - break Connection pool configuration on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use `sql.DB` as a pool, not a connection and `Query`, `QueryRow`, and `Exec` in one small program.
 
 ```go
 // TODO: experiment space

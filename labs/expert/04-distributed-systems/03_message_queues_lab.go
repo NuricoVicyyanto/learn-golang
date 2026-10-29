@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Message Queues
+// Exercise 03 - Message Queues
 //
 // Docs: ../../../docs/03-expert/04-distributed-systems/03-message-queues.md
 //

@@ -1,4 +1,4 @@
-# Lab 04 — Distributed Systems
+# Lab 04 - Distributed Systems
 
 > **Level:** Expert · **Module guide:** [04 Distributed Systems](../../../docs/03-expert/04-distributed-systems/README.md)
 

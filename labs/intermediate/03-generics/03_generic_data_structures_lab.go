@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 03 — Generic Data Structures
+// Exercise 03 - Generic Data Structures
 //
 // Docs: ../../../docs/02-intermediate/03-generics/03-generic-data-structures.md
 //

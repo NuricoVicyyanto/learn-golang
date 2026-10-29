@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — httptest
+// Exercise 02 - httptest
 //
 // Docs: ../../../docs/02-intermediate/07-testing-advanced/02-httptest.md
 //

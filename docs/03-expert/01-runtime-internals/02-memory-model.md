@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Happens-before and synchronization edges. Predict the output before running.
-2. **Change** — modify one detail in Channel operations as synchronization. Explain the difference.
-3. **Break** — break Data races and undefined behavior on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Happens-before and synchronization edges and Channel operations as synchronization in one small program.
+1. **Baseline** - reproduce the smallest working example for Happens-before and synchronization edges. Predict the output before running.
+2. **Change** - modify one detail in Channel operations as synchronization. Explain the difference.
+3. **Break** - break Data races and undefined behavior on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Happens-before and synchronization edges and Channel operations as synchronization in one small program.
 
 ```go
 // TODO: experiment space

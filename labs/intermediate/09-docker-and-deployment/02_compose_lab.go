@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Docker Compose
+// Exercise 02 - Docker Compose
 //
 // Docs: ../../../docs/02-intermediate/09-docker-and-deployment/02-compose.md
 //

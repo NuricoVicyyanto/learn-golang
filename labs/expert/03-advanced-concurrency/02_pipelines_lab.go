@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 02 — Pipelines
+// Exercise 02 - Pipelines
 //
 // Docs: ../../../docs/03-expert/03-advanced-concurrency/02-pipelines.md
 //

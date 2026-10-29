@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — Benchmarking
+// Exercise 01 - Benchmarking
 //
 // Docs: ../../../docs/03-expert/02-performance-engineering/01-benchmarking.md
 //

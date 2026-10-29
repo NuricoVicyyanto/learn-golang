@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Exercise 01 — net/http Basics
+// Exercise 01 - net/http Basics
 //
 // Docs: ../../../docs/02-intermediate/04-http-clients-and-servers/01-net-http-basics.md
 //

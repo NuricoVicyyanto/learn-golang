@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Pods, Deployments, Services, and Ingress. Predict the output before running.
-2. **Change** — modify one detail in ConfigMaps and Secrets. Explain the difference.
-3. **Break** — break Rollouts and rollbacks on purpose. Capture the compiler or runtime error and explain it.
-4. **Combine** — use Pods, Deployments, Services, and Ingress and ConfigMaps and Secrets in one small program.
+1. **Baseline** - reproduce the smallest working example for Pods, Deployments, Services, and Ingress. Predict the output before running.
+2. **Change** - modify one detail in ConfigMaps and Secrets. Explain the difference.
+3. **Break** - break Rollouts and rollbacks on purpose. Capture the compiler or runtime error and explain it.
+4. **Combine** - use Pods, Deployments, Services, and Ingress and ConfigMaps and Secrets in one small program.
 
 ```go
 // TODO: experiment space

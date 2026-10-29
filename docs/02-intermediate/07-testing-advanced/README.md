@@ -57,7 +57,7 @@ go run ./intermediate/07-testing-advanced
 go test ./intermediate/07-testing-advanced -v
 ```
 
-## Mini project — Test Harness for the API
+## Mini project - Test Harness for the API
 
 Build a test harness around the URL shortener or bookmark API: service tests with fakes, handler tests with `httptest`, and integration tests against a disposable database. Document the test pyramid you chose.
 

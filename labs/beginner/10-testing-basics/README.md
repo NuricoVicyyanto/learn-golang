@@ -1,4 +1,4 @@
-# Lab 10 — Testing Basics
+# Lab 10 - Testing Basics
 
 > **Level:** Beginner · **Module guide:** [10 Testing Basics](../../../docs/01-beginner/10-testing-basics/README.md)
 
